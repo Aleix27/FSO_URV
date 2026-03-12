@@ -11,6 +11,8 @@
     --bg-main: #f8fafc;
     --bg-card: #ffffff;
     --bg-nav: #ffffff;
+    --bg-opt: #fafafa;
+    --bg-opt-selected: #eff6ff;
     
     --text-primary: #1e293b;
     --text-secondary: #475569;
@@ -34,6 +36,8 @@ body.dark-theme {
     --bg-main: #0f172a;
     --bg-card: #1e293b;
     --bg-nav: #1e293b;
+    --bg-opt: #334155;
+    --bg-opt-selected: #1e3a8a;
     --text-primary: #f8fafc;
     --text-secondary: #cbd5e1;
     --text-tertiary: #94a3b8;
@@ -371,7 +375,8 @@ body {
     cursor: pointer;
     transition: all 0.2s;
     font-size: 0.95rem;
-    background: #fafafa;
+    background: var(--bg-opt);
+    color: var(--text-primary);
     align-items: flex-start;
 }
 
@@ -385,7 +390,7 @@ body {
 
 .opt-label.selected {
     border-color: var(--primary);
-    background: #eff6ff;
+    background: var(--bg-opt-selected);
 }
 
 /* Feedback Styling */
@@ -399,19 +404,19 @@ body {
 }
 
 .feedback-correct {
-    background: #ecfdf5;
+    background: rgba(16, 185, 129, 0.1);
     border-left: 4px solid var(--success);
-    color: #065f46;
+    color: var(--success);
 }
 
 .feedback-wrong {
-    background: #fef2f2;
+    background: rgba(239, 68, 68, 0.1);
     border-left: 4px solid var(--danger);
-    color: #991b1b;
+    color: var(--danger);
 }
 
 .feedback-blank {
-    background: #f8fafc;
+    background: var(--bg-main);
     border-left: 4px solid var(--text-tertiary);
     color: var(--text-secondary);
 }
