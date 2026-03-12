@@ -552,23 +552,76 @@ body {
 
 .exam-carousel {
     display: flex;
-    overflow-x: auto;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
     gap: 16px;
-    padding: 20px 0;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
+    padding: 10px 0;
+    max-height: 60vh;
+    scrollbar-width: thin;
 }
 .exam-carousel::-webkit-scrollbar {
+    width: 6px;
+    display: block;
+}
+.exam-carousel {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: hidden;
+    gap: 16px;
+    padding: 10px 0;
+    max-height: 60vh;
+    scrollbar-width: thin;
+}
+.exam-carousel::-webkit-scrollbar {
+    width: 6px;
+    display: block;
+}
+.exam-carousel::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 4px;
+}
+
+/* Topic Tabs Styling */
+.topic-tabs {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding: 10px 0 15px 0;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+}
+.topic-tabs::-webkit-scrollbar {
     display: none;
 }
+.topic-tab {
+    padding: 10px 18px;
+    background: var(--bg-card);
+    border: 2px solid var(--border-color);
+    border-radius: 20px;
+    color: var(--text-primary);
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+}
+.topic-tab:hover {
+    border-color: var(--primary);
+}
+.topic-tab.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+
 .exam-card {
-    flex: 0 0 calc(85% - 16px);
+    flex: 0 0 auto;
+    width: 100%;
     background: var(--bg-card);
     border: 1px solid var(--border-color);
     border-radius: 12px;
     padding: 24px;
-    scroll-snap-align: center;
     box-shadow: var(--card-shadow);
     display: flex;
     flex-direction: column;
@@ -577,8 +630,10 @@ body {
     transition: transform 0.2s, box-shadow 0.2s;
 }
 @media (min-width: 768px) {
-    .exam-card {
-        flex: 0 0 calc(33.333% - 16px);
+    .exam-carousel {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        max-height: 70vh;
     }
 }
 .exam-card:hover {

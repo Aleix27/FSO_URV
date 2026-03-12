@@ -20,12 +20,16 @@ const app = {
         // Initial Tema Carousel rendering
         this.renderTemaCarousel(this.currentTemaSelected);
         
-        const sel = document.getElementById('tema-selector');
-        if(sel) {
-            sel.addEventListener('change', (e) => {
-                this.currentTemaSelected = e.target.value;
-                this.backToCarousel('temes'); // Revert to carousel view
-                this.renderTemaCarousel(this.currentTemaSelected);
+        const topicTabs = document.querySelectorAll('.topic-tab');
+        if(topicTabs.length > 0) {
+            topicTabs.forEach(tab => {
+                tab.addEventListener('click', (e) => {
+                    topicTabs.forEach(t => t.classList.remove('active'));
+                    e.currentTarget.classList.add('active');
+                    this.currentTemaSelected = e.currentTarget.getAttribute('data-tema');
+                    this.backToCarousel('temes'); // Revert to carousel view
+                    this.renderTemaCarousel(this.currentTemaSelected);
+                });
             });
         }
     },
