@@ -218,7 +218,7 @@ const app = {
                 // Generate a unique ID for label binding
                 const uid = `${testKey}-q${index}-o${oIndex}`;
                 html += `
-                    <label class="opt-label" for="${uid}" onclick="app.selectOption(this, '${testKey}', ${index})">
+                    <label class="opt-label" for="${uid}" onclick="app.selectOption(this, '${testKey}', ${index}, ${oIndex})">
                         <input type="radio" id="${uid}" name="${testKey}-q${index}" value="${oIndex}">
                         <span>${opt}</span>
                     </label>
@@ -235,14 +235,44 @@ const app = {
         });
     },
 
-    selectOption(labelElement, testKey, qIndex) {
-        // Find container and remove styling from others
+    selectOption(labelElement, testKey, qIndex, oIndex) {
         const parentList = labelElement.closest('.opts-list');
-        const allLabels = parentList.querySelectorAll('.opt-label');
-        allLabels.forEach(l => l.classList.remove('selected'));
         
-        // Add styling to selected
-        labelElement.classList.add('selected');
+        // Prevent changing the answer once selected
+        if (parentList.classList.contains('answered')) return;
+        
+        // Mark as answered lock
+        parentList.classList.add('answered');
+        
+        // Ensure radio is checked (in case pointer events intercept differently)
+        const radio = document.getElementById(`${testKey}-q${qIndex}-o${oIndex}`);
+        if(radio) radio.checked = true;
+
+        const q = this.currentTests[testKey][qIndex];
+        const isCorrect = (oIndex === q.answer);
+        
+        const fbBox = document.getElementById(`fb-${testKey}-${qIndex}`);
+        fbBox.style.display = 'block';
+
+        if (isCorrect) {
+            fbBox.className = 'feedback-box feedback-correct';
+            fbBox.innerHTML = `✅ <b>Correcte</b><br><br><i>${q.explanation}</i>`;
+            labelElement.style.borderColor = "var(--success)";
+            labelElement.style.backgroundColor = "rgba(16, 185, 129, 0.1)";
+        } else {
+            fbBox.className = 'feedback-box feedback-wrong';
+            fbBox.innerHTML = `❌ <b>Error.</b> La correcta era: "${q.options[q.answer]}". <br><br><i>${q.explanation}</i>`;
+            labelElement.style.borderColor = "var(--danger)";
+            labelElement.style.backgroundColor = "rgba(239, 68, 68, 0.1)";
+            
+            // Highlight the correct option as well to guide the user
+            const correctLabel = parentList.querySelector(`label[for="${testKey}-q${qIndex}-o${q.answer}"]`);
+            if (correctLabel) {
+                correctLabel.style.borderColor = "var(--success)";
+                correctLabel.style.borderWidth = "2px";
+                correctLabel.style.borderStyle = "dashed";
+            }
+        }
     },
 
     submitTest(testKey) {
@@ -255,34 +285,30 @@ const app = {
         questions.forEach((q, index) => {
             const selectedInput = document.querySelector(`input[name="${testKey}-q${index}"]:checked`);
             const fbBox = document.getElementById(`fb-${testKey}-${index}`);
-            fbBox.style.display = 'block';
 
             if (!selectedInput) {
-                // Blank
+                // Handled as blank during final evaluation
+                fbBox.style.display = 'block';
                 fbBox.className = 'feedback-box feedback-blank';
                 fbBox.innerHTML = `📓 <b>Deixada en blanc (0 pts).</b> La correcta era: "${q.options[q.answer]}". <br><br><i>${q.explanation}</i>`;
+                
+                // Lock the options
+                const firstInput = document.getElementById(`${testKey}-q${index}-o0`);
+                if(firstInput) {
+                    const parentList = firstInput.closest('.opts-list');
+                    if(parentList) parentList.classList.add('answered');
+                }
+                
                 blank++;
-                return;
-            }
-
-            const val = parseInt(selectedInput.value);
-            const parentLabel = selectedInput.closest('.opt-label');
-
-            if (val === q.answer) {
-                fbBox.className = 'feedback-box feedback-correct';
-                fbBox.innerHTML = `✅ <b>Correcte (+1 pt)</b><br><br><i>${q.explanation}</i>`;
-                score += 1;
-                correctC++;
-                // Add hard style
-                parentLabel.style.borderColor = "var(--success)";
-                parentLabel.style.backgroundColor = "#ecfdf5";
             } else {
-                fbBox.className = 'feedback-box feedback-wrong';
-                fbBox.innerHTML = `❌ <b>Error (-0.33 pts).</b> Has dit que era la teva, però la correcta era: "${q.options[q.answer]}". <br><br><i>${q.explanation}</i>`;
-                score -= 0.33;
-                errors++;
-                parentLabel.style.borderColor = "var(--danger)";
-                parentLabel.style.backgroundColor = "#fef2f2";
+                const val = parseInt(selectedInput.value);
+                if (val === q.answer) {
+                    score += 1;
+                    correctC++;
+                } else {
+                    score -= 0.33;
+                    errors++;
+                }
             }
         });
 

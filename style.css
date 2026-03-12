@@ -367,6 +367,10 @@ body {
     gap: 12px;
 }
 
+.opts-list.answered {
+    pointer-events: none;
+}
+
 .opt-label {
     display: flex;
     padding: 14px 16px;
