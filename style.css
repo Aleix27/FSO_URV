@@ -70,6 +70,7 @@ body {
     font-weight: 800;
     letter-spacing: -0.025em;
     background: linear-gradient(135deg, var(--primary), #8b5cf6);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -110,7 +111,7 @@ body {
     font-size: 0.7rem;
     font-weight: 600;
     cursor: pointer;
-    width: 33%;
+    width: 25%;
     height: 100%;
     transition: all 0.2s ease;
 }
@@ -174,12 +175,14 @@ body {
 
 .gradient-header h2 {
     background: linear-gradient(135deg, #f59e0b, #ef4444);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .premium-header h2 {
     background: linear-gradient(135deg, #8b5cf6, #3b82f6);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -232,6 +235,7 @@ body {
     font-size: 0.85rem;
     color: var(--text-secondary);
     display: -webkit-box;
+    line-clamp: 2;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;

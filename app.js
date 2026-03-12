@@ -1,8 +1,8 @@
-// App State and Logic
 const app = {
     currentTests: {
         assignatura: testsData.parcial1.tests_assignatura,
-        generats: testsData.parcial1.tests_generats
+        generats: testsData.parcial1.tests_generats,
+        temes: testsPerTema.tema1
     },
     
     init() {
@@ -10,6 +10,19 @@ const app = {
         this.renderResums();
         this.renderTests('assignatura', 'assignatura-questions-container');
         this.renderTests('generats', 'generats-questions-container');
+        this.renderTests('temes', 'temes-questions-container');
+        
+        const sel = document.getElementById('tema-selector');
+        if(sel) {
+            sel.addEventListener('change', (e) => {
+                this.renderTestsTema(e.target.value);
+            });
+        }
+    },
+
+    renderTestsTema(temaId) {
+        this.currentTests.temes = testsPerTema[temaId];
+        this.renderTests('temes', 'temes-questions-container');
     },
 
     setupNavigation() {

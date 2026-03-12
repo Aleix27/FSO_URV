@@ -9,6 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <script src="data/resums.js"></script>
     <script src="data/tests.js"></script>
+    <script src="data/tests_per_tema.js"></script>
 </head>
 <body>
 
@@ -34,6 +35,10 @@
         <button class="nav-item" data-target="tests-generats-view">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
             <span>Generats P1</span>
+        </button>
+        <button class="nav-item" data-target="tests-temes-view">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"></path></svg>
+            <span>Per Temes</span>
         </button>
     </nav>
 
@@ -99,6 +104,33 @@
                     <!-- Populated by JS -->
                 </div>
                 <button class="btn-submit huge-btn" onclick="app.submitTest('generats')">Avaluar Examen Generat</button>
+            </div>
+        </section>
+
+        <!-- View: Tests per Temes -->
+        <section id="tests-temes-view" class="view hidden-view">
+            <div class="view-header premium-header">
+                <h2 style="background: linear-gradient(135deg, #10b981, #0ea5e9); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📚 Tests per Temes</h2>
+                <p>Posa't a prova de forma focalitzada per a cada tema particular.</p>
+            </div>
+            <div class="test-wrapper">
+                <div class="test-controls" style="flex-direction: column;">
+                    <select id="tema-selector" class="topic-select" style="padding: 12px; font-size: 1rem; border-radius: 8px; border: 2px solid #e2e8f0; width: 100%; margin-bottom: 15px;">
+                        <option value="tema1">Tema 1: Arquitectura i SO</option>
+                        <option value="tema2">Tema 2: Processos</option>
+                        <option value="tema3">Tema 3: Fils i Creació</option>
+                        <option value="tema4">Tema 4: Planificació CPU</option>
+                        <option value="tema6">Tema 6: Shell i Unix</option>
+                    </select>
+                    <div style="display:flex; gap:8px;">
+                        <span class="badge badge-success">Focalitzat</span>
+                        <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
+                    </div>
+                </div>
+                <div id="temes-questions-container" class="questions-container">
+                    <!-- Populated by JS dynamically based on Select -->
+                </div>
+                <button class="btn-submit huge-btn" onclick="app.submitTest('temes')" style="background: linear-gradient(135deg, #10b981, #0ea5e9); box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.4);">Avaluar Test per Tema</button>
             </div>
         </section>
 
