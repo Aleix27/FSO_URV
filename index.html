@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>FSO Urv - Estudi Interactiu</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="data/resums.js"></script>
+    <script src="data/tests.js"></script>
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header class="app-header">
+        <div class="logo">
+            <span class="icon">💻</span>
+            <h1>FSO Urv</h1>
+        </div>
+        <div class="subtitle">Fonaments Sistemes Operatius</div>
+    </header>
+
+    <!-- Bottom Mobile Navigation Bar -->
+    <nav class="bottom-nav">
+        <button class="nav-item active" data-target="resums-view">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+            <span>Llibres</span>
+        </button>
+        <button class="nav-item" data-target="tests-assignatura-view">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+            <span>Assignatura</span>
+        </button>
+        <button class="nav-item" data-target="tests-generats-view">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+            <span>Generats P1</span>
+        </button>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main class="content-area">
+        
+        <!-- View: Resums -->
+        <section id="resums-view" class="view active">
+            <div class="view-header">
+                <h2>Resums Temari</h2>
+                <p>Estudia els conceptes clau directament aquí.</p>
+            </div>
+            
+            <div id="chapters-list" class="cards-grid">
+                <!-- Dynamically injected chapter cards -->
+            </div>
+        </section>
+
+        <!-- View: Single Resum Reader (Hidden by default) -->
+        <section id="reader-view" class="view hidden-view">
+            <div class="reader-toolbar">
+                <button id="btn-back-resums" class="btn-icon">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+                    Tornar
+                </button>
+                <h3 id="reader-title">Titol</h3>
+            </div>
+            <div id="reader-content" class="markdown-body">
+                <!-- Injected markdown html -->
+            </div>
+        </section>
+
+        <!-- View: Tests Assignatura -->
+        <section id="tests-assignatura-view" class="view">
+            <div class="view-header gradient-header">
+                <h2>🔥 Tests Reals Assignatura</h2>
+                <p>Preguntes dels exàmens oficials i PDF's de la classe.</p>
+            </div>
+            <div class="test-wrapper">
+                <div class="test-controls">
+                    <span class="badge badge-primary">Nivell: 1r Parcial</span>
+                    <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
+                </div>
+                <div id="assignatura-questions-container" class="questions-container">
+                    <!-- Populated by JS -->
+                </div>
+                <button class="btn-submit huge-btn" onclick="app.submitTest('assignatura')">Avaluar Examen Assignatura</button>
+            </div>
+        </section>
+
+        <!-- View: Tests Generats P1 -->
+        <section id="tests-generats-view" class="view">
+            <div class="view-header premium-header">
+                <h2>🚀 Tests Pràctics (P1)</h2>
+                <p>Més de 25 tests generats exclusivament de Temes 1,2,3,4 i 6.</p>
+            </div>
+            <div class="test-wrapper">
+                <div class="test-controls">
+                    <span class="badge badge-success">Barrejats i nous</span>
+                    <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
+                </div>
+                <div id="generats-questions-container" class="questions-container">
+                    <!-- Populated by JS -->
+                </div>
+                <button class="btn-submit huge-btn" onclick="app.submitTest('generats')">Avaluar Examen Generat</button>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Results Modal -->
+    <div id="results-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <h2 class="modal-title">Resultats Escolars</h2>
+            <div class="score-circle">
+                <span id="final-score">0.0</span>
+                <span class="score-max">/ 10</span>
+            </div>
+            <p id="final-message" class="modal-message"></p>
+            <div class="modal-stats">
+                <div class="stat"><span class="icon">✅</span> <b id="stat-correct">0</b> Encerts</div>
+                <div class="stat"><span class="icon">❌</span> <b id="stat-wrong">0</b> Fallades</div>
+                <div class="stat"><span class="icon">⚪</span> <b id="stat-blank">0</b> En blanc</div>
+            </div>
+            <button class="btn-primary" onclick="app.closeModal()">Veure Correccions</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
