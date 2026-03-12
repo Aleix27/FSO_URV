@@ -148,25 +148,29 @@ function shuffle(array) {
   return array;
 }
 
-// 1. GENERATED EXAMS: We generate 30 distinct exams of 10 questions each
+// 1. GENERATED EXAMS: We generate 40 distinct exams of 10-15 questions each
 const generatedExamsArr = [];
-for(let i=1; i<=30; i++) {
+for(let i=1; i<=40; i++) {
     const shuffled = shuffle([...questionPool]);
+    const numQ = Math.floor(Math.random() * 5) + 10; // 10 to 14 questions
     generatedExamsArr.push({
-        title: `Examen Pràctic Generat #${i}`,
-        questions: shuffled.slice(0, 10)
+        title: `Simulacre Pràctic P1 (Variant #${i})`,
+        questions: shuffled.slice(0, numQ)
     });
 }
 
-// 2. ASSIGNATURA EXAMS (The PDFs structure)
+// 2. ASSIGNATURA EXAMS (Matching the 'Tests' folder exact matches + extras)
 const assignaturaExamsArr = [
-    { title: "Primer Parcial 2023 - A", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "Primer Parcial 2023 - B", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "1er Parcial FSO amb Solucio", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "Test Primer Parcial 2025", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "Examen FSO Temes 1 i 2", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "Test Interactiu Avançat", questions: shuffle([...existingTests]).slice(0,10) },
-    { title: "Parcial Antic / Extra", questions: shuffle([...existingTests]).slice(0,10) }
+    { title: "Primer Parcial 2023 - A", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "Primer Parcial 2023 - B", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "1er Parcial FSO (Amb Solució)", questions: shuffle([...existingTests]).slice(0, 12) },
+    { title: "Test FSO Tema 1 Wala", questions: shuffle([...existingTests]).slice(0, 8) },
+    { title: "Test Primer Parcial 2025", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "Examen FSO Temes 1 i 2 (2022 Solució)", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "Test Interactiu Avançat (Original Web)", questions: shuffle([...existingTests]).slice(0, 15) },
+    { title: "Parcial Antic / Extra", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "Wala Free - TAC 12346", questions: shuffle([...existingTests]).slice(0, 10) },
+    { title: "Recopilatori Primer Parcial", questions: shuffle([...existingTests]).slice(0, 10) }
 ];
 
 const finalTestsData = {

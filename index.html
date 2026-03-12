@@ -130,22 +130,30 @@
                 <h2 style="background: linear-gradient(135deg, #10b981, #0ea5e9); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📚 Tests per Temes</h2>
                 <p>Posa't a prova de forma focalitzada per a cada tema particular.</p>
             </div>
-            <div class="test-wrapper">
-                <div class="test-controls" style="flex-direction: column;">
-                    <select id="tema-selector" class="topic-select" style="padding: 12px; font-size: 1rem; border-radius: 8px; border: 2px solid #e2e8f0; width: 100%; margin-bottom: 15px;">
-                        <option value="tema1">Tema 1: Arquitectura i SO</option>
-                        <option value="tema2">Tema 2: Processos</option>
-                        <option value="tema3">Tema 3: Fils i Creació</option>
-                        <option value="tema4">Tema 4: Planificació CPU</option>
-                        <option value="tema6">Tema 6: Shell i Unix</option>
-                    </select>
-                    <div style="display:flex; gap:8px;">
-                        <span class="badge badge-success">Focalitzat</span>
-                        <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
-                    </div>
+            
+            <div class="test-controls" style="flex-direction: column;">
+                <select id="tema-selector" class="topic-select" style="padding: 12px; font-size: 1rem; border-radius: 8px; border: 2px solid var(--border-color); background: var(--bg-card); color: var(--text-primary); width: 100%; margin-bottom: 5px;">
+                    <option value="tema1">Tema 1: Arquitectura i SO</option>
+                    <option value="tema2">Tema 2: Processos</option>
+                    <option value="tema3">Tema 3: Fils i Creació</option>
+                    <option value="tema4">Tema 4: Planificació CPU</option>
+                    <option value="tema6">Tema 6: Planificació de la CPU</option>
+                </select>
+            </div>
+
+            <div class="exam-carousel" id="temes-carousel">
+                <!-- Populated by JS -->
+            </div>
+
+            <div class="test-wrapper hidden-view" id="temes-test-wrapper">
+                <div class="test-controls">
+                    <button class="btn-icon" onclick="app.backToCarousel('temes')">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg> Tornar
+                    </button>
+                    <span class="badge badge-success" id="temes-exam-title">Tema 1</span>
                 </div>
                 <div id="temes-questions-container" class="questions-container">
-                    <!-- Populated by JS dynamically based on Select -->
+                    <!-- Populated by JS -->
                 </div>
                 <button class="btn-submit huge-btn" onclick="app.submitTest('temes')" style="background: linear-gradient(135deg, #10b981, #0ea5e9); box-shadow: 0 10px 15px -3px rgba(16, 185, 129, 0.4);">Avaluar Test per Tema</button>
             </div>

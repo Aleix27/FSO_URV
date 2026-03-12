@@ -1,26 +1,31 @@
+// App State and Logic
 const app = {
     currentTests: {
-        assignatura: testsData.parcial1.tests_assignatura,
-        generats: testsData.parcial1.tests_generats,
-        temes: testsPerTema.tema1
+        assignatura: testsData.parcial1.tests_assignatura[0].questions,
+        generats: testsData.parcial1.tests_generats[0].questions,
+        temes: []
     },
+    
+    currentTemaSelected: 'tema1',
     
     init() {
         this.setupNavigation();
         this.setupThemeToggle();
         this.renderResums();
         
-        // Render carousels
+        // Render main carousels
         this.renderCarousels('assignatura');
         this.renderCarousels('generats');
         
-        // Topic tests
-        this.renderTests('temes', 'temes-questions-container');
+        // Initial Tema Carousel rendering
+        this.renderTemaCarousel(this.currentTemaSelected);
         
         const sel = document.getElementById('tema-selector');
         if(sel) {
             sel.addEventListener('change', (e) => {
-                this.renderTestsTema(e.target.value);
+                this.currentTemaSelected = e.target.value;
+                this.backToCarousel('temes'); // Revert to carousel view
+                this.renderTemaCarousel(this.currentTemaSelected);
             });
         }
     },
@@ -82,8 +87,34 @@ const app = {
         document.getElementById(`${type}-questions-container`).innerHTML = '';
     },
 
-    renderTestsTema(temaId) {
-        this.currentTests.temes = testsPerTema[temaId];
+    renderTemaCarousel(temaId) {
+        const container = document.getElementById('temes-carousel');
+        if(!container) return;
+        container.innerHTML = '';
+        
+        const data = testsPerTema[temaId];
+        data.exams.forEach((exam, index) => {
+            const card = document.createElement('div');
+            card.className = 'exam-card';
+            card.innerHTML = `
+                <h3>${exam.title}</h3>
+                <p>Tema: ${data.title} (${exam.questions.length} preg.)</p>
+                <button class="btn-start-exam" onclick="app.openTemaExam('${temaId}', ${index})" style="background: linear-gradient(135deg, #10b981, #0ea5e9);">Fer Test</button>
+            `;
+            container.appendChild(card);
+        });
+    },
+
+    openTemaExam(temaId, index) {
+        const exam = testsPerTema[temaId].exams[index];
+        this.currentTests.temes = exam.questions;
+        
+        const titleEl = document.getElementById('temes-exam-title');
+        if(titleEl) titleEl.textContent = exam.title;
+        
+        document.getElementById('temes-carousel').classList.add('hidden-view');
+        document.getElementById('temes-test-wrapper').classList.remove('hidden-view');
+        
         this.renderTests('temes', 'temes-questions-container');
     },
 

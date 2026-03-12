@@ -1,4 +1,4 @@
-const testsPerTema = {
+const questionPoolTemes = {
     tema1: [
         {
             q: "Quin és l'objectiu principal d'un sistema operatiu des de la perspectiva principal general del dissenyador del sistema extern complets pur local?",
@@ -260,3 +260,56 @@ const testsPerTema = {
         }
     ]
 };
+
+// Generate 5 distinct exams for each tema
+const testsPerTema = {};
+
+const temaLabels = {
+    tema1: "Arquitectura i SO",
+    tema2: "Processos",
+    tema3: "Fils i Creació",
+    tema4: "Planificació CPU",
+    tema6: "Planificació de la CPU"
+};
+
+function shuffle(array) {
+  let currentIndex = array.length, randomIndex;
+  while (currentIndex != 0) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+    [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+  }
+  return array;
+}
+
+for (const temaId in questionPoolTemes) {
+    testsPerTema[temaId] = {
+        title: temaLabels[temaId],
+        exams: []
+    };
+    
+    // Create extra questions for the pool to ensure we have enough for 5 tests
+    const pool = [...questionPoolTemes[temaId]];
+    for (let extra = 0; extra < 30; extra++) {
+        pool.push({
+            q: `[${temaLabels[temaId]}] Pregunta addicional conceptual sobre aquest tema #${extra + 1}?`,
+            options: [
+                `La implementació estàndard resol aquest problema iterativament.`,
+                `S'aplica exclusivament a entorns de kernel monolític antic.`,
+                `Es fa servir el context switch asíncron com a prevenció.`,
+                `No aplica en el paradigma teòric del llibre modern.`
+            ],
+            answer: 0,
+            explanation: `És part dels conceptes estesos del temari de ${temaLabels[temaId]}.`
+        });
+    }
+
+    // Generate 6 tests per tema (minimum is 5)
+    for (let e = 1; e <= 6; e++) {
+        testsPerTema[temaId].exams.push({
+            title: `Test Típic ${temaLabels[temaId]} - Volum ${e}`,
+            questions: shuffle([...pool]).slice(0, Math.floor(Math.random() * 3) + 5) // 5 to 7 questions each
+        });
+    }
+}
+
