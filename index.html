@@ -15,9 +15,12 @@
 
     <!-- Header Navigation -->
     <header class="app-header">
-        <div class="logo">
-            <span class="icon">💻</span>
-            <h1>FSO Urv</h1>
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+            <div class="logo">
+                <span class="icon">💻</span>
+                <h1>FSO Urv</h1>
+            </div>
+            <button id="theme-toggle" class="btn-icon" style="font-size: 1.5rem;">🌙</button>
         </div>
         <div class="subtitle">Fonaments Sistemes Operatius</div>
     </header>
@@ -75,17 +78,24 @@
         <section id="tests-assignatura-view" class="view">
             <div class="view-header gradient-header">
                 <h2>🔥 Tests Reals Assignatura</h2>
-                <p>Preguntes dels exàmens oficials i PDF's de la classe.</p>
+                <p>Escull un dels exàmens oficials i PDF's de la classe per posar-t'hi a prova.</p>
             </div>
-            <div class="test-wrapper">
+            
+            <div class="exam-carousel" id="assignatura-carousel">
+                <!-- Populated by JS -->
+            </div>
+
+            <div class="test-wrapper hidden-view" id="assignatura-test-wrapper">
                 <div class="test-controls">
-                    <span class="badge badge-primary">Nivell: 1r Parcial</span>
-                    <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
+                    <button class="btn-icon" onclick="app.backToCarousel('assignatura')">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg> Tornar
+                    </button>
+                    <span class="badge badge-primary" id="assignatura-exam-title">Nivell: 1r Parcial</span>
                 </div>
                 <div id="assignatura-questions-container" class="questions-container">
                     <!-- Populated by JS -->
                 </div>
-                <button class="btn-submit huge-btn" onclick="app.submitTest('assignatura')">Avaluar Examen Assignatura</button>
+                <button class="btn-submit huge-btn" onclick="app.submitTest('assignatura')">Avaluar Examen</button>
             </div>
         </section>
 
@@ -93,17 +103,24 @@
         <section id="tests-generats-view" class="view">
             <div class="view-header premium-header">
                 <h2>🚀 Tests Pràctics (P1)</h2>
-                <p>Més de 25 tests generats exclusivament de Temes 1,2,3,4 i 6.</p>
+                <p>Resol simulacres generats aleatòriament per forçar el nivell.</p>
             </div>
-            <div class="test-wrapper">
+            
+            <div class="exam-carousel" id="generats-carousel">
+                <!-- Populated by JS -->
+            </div>
+
+            <div class="test-wrapper hidden-view" id="generats-test-wrapper">
                 <div class="test-controls">
-                    <span class="badge badge-success">Barrejats i nous</span>
-                    <span class="badge badge-warning">Avaluació: +1.00 / -0.33</span>
+                    <button class="btn-icon" onclick="app.backToCarousel('generats')">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg> Tornar
+                    </button>
+                    <span class="badge badge-success" id="generats-exam-title">Barrejats i nous</span>
                 </div>
                 <div id="generats-questions-container" class="questions-container">
                     <!-- Populated by JS -->
                 </div>
-                <button class="btn-submit huge-btn" onclick="app.submitTest('generats')">Avaluar Examen Generat</button>
+                <button class="btn-submit huge-btn" onclick="app.submitTest('generats')">Avaluar Examen</button>
             </div>
         </section>
 

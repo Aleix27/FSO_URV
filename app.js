@@ -7,9 +7,14 @@ const app = {
     
     init() {
         this.setupNavigation();
+        this.setupThemeToggle();
         this.renderResums();
-        this.renderTests('assignatura', 'assignatura-questions-container');
-        this.renderTests('generats', 'generats-questions-container');
+        
+        // Render carousels
+        this.renderCarousels('assignatura');
+        this.renderCarousels('generats');
+        
+        // Topic tests
         this.renderTests('temes', 'temes-questions-container');
         
         const sel = document.getElementById('tema-selector');
@@ -18,6 +23,63 @@ const app = {
                 this.renderTestsTema(e.target.value);
             });
         }
+    },
+
+    setupThemeToggle() {
+        const toggleBtn = document.getElementById('theme-toggle');
+        if(!toggleBtn) return;
+        
+        if(localStorage.getItem('theme') === 'dark') {
+            document.body.classList.add('dark-theme');
+            toggleBtn.textContent = '☀️';
+        }
+        toggleBtn.addEventListener('click', () => {
+            document.body.classList.toggle('dark-theme');
+            if(document.body.classList.contains('dark-theme')) {
+                toggleBtn.textContent = '☀️';
+                localStorage.setItem('theme', 'dark');
+            } else {
+                toggleBtn.textContent = '🌙';
+                localStorage.setItem('theme', 'light');
+            }
+        });
+    },
+
+    renderCarousels(type) {
+        const container = document.getElementById(`${type}-carousel`);
+        if(!container) return;
+        container.innerHTML = '';
+        
+        const exams = testsData.parcial1[`tests_${type}`];
+        exams.forEach((exam, index) => {
+            const card = document.createElement('div');
+            card.className = 'exam-card';
+            card.innerHTML = `
+                <h3>${exam.title}</h3>
+                <p>${exam.questions.length} Preguntes</p>
+                <button class="btn-start-exam" onclick="app.openExam('${type}', ${index})">Començar Test</button>
+            `;
+            container.appendChild(card);
+        });
+    },
+
+    openExam(type, index) {
+        const exam = testsData.parcial1[`tests_${type}`][index];
+        this.currentTests[type] = exam.questions;
+        
+        const titleEl = document.getElementById(`${type}-exam-title`);
+        if(titleEl) titleEl.textContent = exam.title;
+        
+        document.getElementById(`${type}-carousel`).classList.add('hidden-view');
+        document.getElementById(`${type}-test-wrapper`).classList.remove('hidden-view');
+        
+        this.renderTests(type, `${type}-questions-container`);
+    },
+    
+    backToCarousel(type) {
+        document.getElementById(`${type}-test-wrapper`).classList.add('hidden-view');
+        document.getElementById(`${type}-carousel`).classList.remove('hidden-view');
+        document.getElementById(`${type}-questions-container`).innerHTML = '';
     },
 
     renderTestsTema(temaId) {
