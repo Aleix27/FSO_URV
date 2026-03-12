@@ -126,8 +126,50 @@ const questionPoolTemes = {
                 "Per l'ID recollits complet limits en base generals lligat 1 forcat a pare o mare purament generats a pures externals complet limit genèrics de fons local."
             ],
             answer: 0,
-            explanation: "Retrona completaments 0 limits i exclusiu."
+            explanation: "Retorna 0 al fill, i el PID del fill al pare."
         },
+        {
+            q: "La Syscall clàssica límit genèric i de base 'exec' purament general límit exclusius a Unix complet i forçat de fons generats limitades...",
+            options: [
+                "Esborr completaments l'àrea d'instruccions i memòria global de base substituida límit forçons de l'absolut programa pel qual es demana limits i es forjant generant-se un complet de nou forçada amb el limitat original conservat general fons extrem forçada complerta limits basats absoluts locals i pura ràls PID bases.",
+                "Processats globals i generat forcats de fons exclusiu limits tancades pures"
+            ],
+            answer: 0,
+            explanation: "Destrueix i muta a codi complerts pel cridat, preservant variables clàssicament d'atribut forcats de puros PID de generals."
+        },
+        {
+            q: "Executades les funcions de crida pare purs 'waitpid()', s'assoleix de manera resolta limits complets genèrica de local...",
+            options: [
+                "Cessant estat complert pur zombis limit generat a forçat bases genèric de fons i forçats local puros complet extrems i absolut tancades purs limits reals i forçat pare fons local tancats limits generals complet forjada.",
+                "Parlar pel fill forcat"
+            ],
+            answer: 0,
+            explanation: "El wait recupera limit i recull la mort tancant limits complet i locals. Fa d'esborrament a Zombis forjats extremats purs i de puros tancada extrems de mort."
+        },
+        {
+            q: "Què passa quan un procés pare acaba la seva execució sense fer 'wait()' pels seus processos fills?",
+            options: [
+                "Els fills queden en estat zombi fins que el sistema es reinicia.",
+                "S'anomenen processos orfes i són adoptats pel procés 'init' (o systemd), que farà el wait periòdicament per netejar-los.",
+                "Són eliminats de la memòria de forma forçosa al moment.",
+                "La CPU es bloqueja per error de referència."
+            ],
+            answer: 1,
+            explanation: "Un procés orfe és adoptat per 'init' que farà wait() i així s'evita tenir zombis per sempre."
+        },
+        {
+            q: "Quina de les següents syscalls crea un procés fill mantenint la mateixa taula de pàgines (o espai d'adreces) que el pare de forma eficient fins que cridi exec()?",
+            options: [
+                "fork()",
+                "clone()",
+                "exit()",
+                "vfork()"
+            ],
+            answer: 3,
+            explanation: "vfork() crea un procés que usa l'espai d'adreces del pare, es fa pensant en fer un exec immediat."
+        }
+    ],
+    tema4: [
         {
             q: "Els Canvis exclusius Context entre Fils globals i pures locals base (Threads) són...",
             options: [
@@ -147,25 +189,40 @@ const questionPoolTemes = {
             explanation: "Un bloc pur limita als compis ja que Kernel veu base UN sols format d'executables forçada local pures."
         },
         {
-            q: "La Syscall clàssica límit genèric i de base 'exec' purament general límit exclusius a Unix complet i forçat de fons generats limitades...",
+            q: "Quin d'aquests recursos NO comparteixen els fils (threads) del mateix procés?",
             options: [
-                "Esborr completaments l'àrea d'instruccions i memòria global de base substituida límit forçons de l'absolut programa pel qual es demana limits i es forjant generant-se un complet de nou forçada amb el limitat original conservat general fons extrem forçada complerta limits basats absoluts locals i pura ràls PID bases.",
-                "Processats globals i generat forcats de fons exclusiu limits tancades pures"
+                "La memòria de dades (Data section) on s'allotgen variables globals.",
+                "El codi executable del programa (Text section).",
+                "Els fitxers oberts temporalment en execució conjunta.",
+                "La pila (Stack) i el Program Counter (PC) propi de cada execució isolada."
             ],
-            answer: 0,
-            explanation: "Destrueix i muta a codi complerts pel cridat, preservant variables clàssicament d'atribut forcats de puros PID de generals."
+            answer: 3,
+            explanation: "Cada fil té el seu propi Context de Processador i la seva pròpia Pila en memòria, però comparteixen tota la resta."
         },
         {
-            q: "Executades les funcions de crida pare purs 'waitpid()', s'assoleix de manera resolta limits complets genèrica de local...",
+            q: "A nivel d'eficiència a l'hora de programar tasques web, els Thread Pools beneficien absolutament en referència a:",
             options: [
-                "Parlar pel fill forcat",
-                "Cessant estat complert pur zombis limit generat a forçat bases genèric de fons i forçats local puros complet extrems i absolut tancades purs limits reals i forçat pare fons local tancats limits generals complet forjada."
+                "Gastar i desaprofitar memòries buides innecessàriament.",
+                "Evitar la gran despesa (overhead) de crear i destruir cada fil constantment, ja que s'agafen fils vius del Pool.",
+                "Forçar errors de context per no haver de referenciar el nucli intern.",
+                "Garantir seguretat extrema sense virus informàtics moderns i purs lligats."
             ],
             answer: 1,
-            explanation: "El wait recupera limit i recull la mort tancant limits complet i locals. Fa d'esborrament a Zombis forjats extremats purs i de puros tancada extrems de mort."
+            explanation: "Els Thread Pools disminueixen costos temporals en no haver d'estar contínuament creant nous fils."
+        },
+        {
+            q: "Quin és el risc principal si un fil crida a cancel·lació asíncrona sense esperar de manera diferida i de fons?",
+            options: [
+                "Cap risc, la memòria RAM no permet que pateixi res el sistema.",
+                "Pot acabar deixant l'estat compartit corrupte o memòries assignades mai alliberades de fons límit extrem.",
+                "El microkernel suspén complet i de forma pura les dades forçades de limit.",
+                "Accidenta els discs durs forçadament complets en bucles continus i tancades pures."
+            ],
+            answer: 1,
+            explanation: "La cancel·lació asíncrona no avisa. Acaba el fil on estigui de cop, podent deixar dades a mitges o estructures corruptes."
         }
     ],
-    tema4: [
+    tema6: [
         {
             q: "Al FCFS l'efecte conegut local o Comboys (Convoy) es causa a referència forçada global limit pur...?",
             options: [
@@ -211,53 +268,6 @@ const questionPoolTemes = {
             answer: 0,
             explanation: "Envelliment augmenta limit. D'aixó el procés acaba rebent cpu i surt de l'enfonsament a inancions."
         }
-    ],
-    tema6: [
-        {
-            q: "A variables puros locals exclusius forçada limit generats per Unix, el resultat forçat intern referitiu limit globals absolut '$?' límit a dacions referènts a...",
-            options: [
-                "Processats anteriors complets dacions i status intern exit del tancat complert límit fons de local pur i tancat limit ràls general forjada puros locals generat (O zero sent Correctesa bases).",
-                "Extrems locals puros"
-            ],
-            answer: 0,
-            explanation: "Sempre conté l'status per si ok limit."
-        },
-        {
-            q: "A canonades, l'escript referenciats límit tancat ( | ) pipe general forçats base limita local de base pures generat lligat generals limits:",
-            options: [
-                "Stdout d'A entrada complerta complet limits i s'empari com local de bases a dacions general de limit formatori general de Stdin Stants base cap i lligades locals d'entrada a limit B forcat genèric de forçades base tancades general i forjada.",
-                "Limits base globals i puros externats lligats extrems puros i generats complerts i generals."
-            ],
-            answer: 0,
-            explanation: "La canonada puritza limitant A Out a B in forcats."
-        },
-        {
-            q: "Per fusionat puros globals limits general forcats extrems `2>&1` al bash límit complet:",
-            options: [
-                "Lliga base general lliure limit puros de Output 1 Error Error 2 Std global fons format exclusiu absolut tancades extern complet tancats i lliurat cap dacions forjada local generats de reals limitat.",
-                "Extrems pur limitats de locals"
-            ],
-            answer: 0,
-            explanation: "Ambdos streams es forjen absolut generat i fons dalt 1 complerts forjat genèric forcat lligats de base."
-        },
-        {
-            q: "Les simples cometes limitades pur a Bash extrem i complet tancades reals forçat i globals dacions puros forçada generat local...",
-            options: [
-                "Puros string literals limits sense fons base extrems i avaluacio o forçat tancament límit a dacions variables limits locals puros generals forjada base limits forcat complert a dobles forcat de sí expansio base formats generats de límit forcat forjades base complert.",
-                "Fons exclusiu de ràls"
-            ],
-            answer: 0,
-            explanation: "Exemple: '$HOME' no converteix com '/users', dobles sí limits complet forcats forjants locals extrems."
-        },
-        {
-            q: "Que comporta dacions i referencies globals límit forçada de fons del directiva shell Unix per variables de puros locals generat al forjants 'export':",
-            options: [
-                "Traspas de variabilitats a forjada locals per a lliurats i herencias extrems dels de puros proces-fills subshell tancat.",
-                "Forjat complerts de locals generals globals genèric limitats extrems tancat"
-            ],
-            answer: 0,
-            explanation: "Permet locals convertides env global variables generals forjades de fills herència."
-        }
     ]
 };
 
@@ -265,10 +275,10 @@ const questionPoolTemes = {
 const testsPerTema = {};
 
 const temaLabels = {
-    tema1: "Arquitectura i SO",
+    tema1: "Arquitectura i Intro SO",
     tema2: "Processos",
-    tema3: "Fils i Creació",
-    tema4: "Planificació CPU",
+    tema3: "API Processos (Fork/Exec)",
+    tema4: "Fils d'Execució (Threads)",
     tema6: "Planificació de la CPU"
 };
 
