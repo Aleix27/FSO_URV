@@ -203,7 +203,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-examen-fso-temes-1-i-2-any-2022-amb-solucio_(1)_p4_b13.png"
+              "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p4_b13.png"
             ]
           },
           {
@@ -217,7 +217,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-examen-fso-temes-1-i-2-any-2022-amb-solucio_(1)_p4_b13.png"
+              "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p4_b13.png"
             ]
           },
           {
@@ -231,7 +231,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-examen-fso-temes-1-i-2-any-2022-amb-solucio_(1)_p4_b13.png"
+              "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p4_b13.png"
             ]
           },
           {
@@ -470,7 +470,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-Test-Primer-Parcial-2025_(1)_p4_b6.png"
+              "assets/img/exams/auto_ext_wuolah_free_Test_Primer_Parcial_2025__1__p4_b6.png"
             ]
           },
           {
@@ -484,7 +484,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-Test-Primer-Parcial-2025_(1)_p4_b6.png"
+              "assets/img/exams/auto_ext_wuolah_free_Test_Primer_Parcial_2025__1__p4_b6.png"
             ]
           },
           {
@@ -498,7 +498,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-Test-Primer-Parcial-2025_(1)_p4_b6.png"
+              "assets/img/exams/auto_ext_wuolah_free_Test_Primer_Parcial_2025__1__p4_b6.png"
             ]
           },
           {
@@ -704,7 +704,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-1erParcial-FSO-amb-Solucio_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_1erParcial_FSO_amb_Solucio__1__p0_b0.png"
             ]
           },
           {
@@ -718,7 +718,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-1erParcial-FSO-amb-Solucio_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_1erParcial_FSO_amb_Solucio__1__p0_b0.png"
             ]
           },
           {
@@ -732,7 +732,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-1erParcial-FSO-amb-Solucio_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_1erParcial_FSO_amb_Solucio__1__p0_b0.png"
             ]
           },
           {
@@ -1174,7 +1174,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-tac12346_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p0_b0.png"
             ]
           },
           {
@@ -1188,7 +1188,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-tac12346_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p0_b0.png"
             ]
           },
           {
@@ -1202,7 +1202,7 @@ const testsData = {
             "answer": 0,
             "explanation": "Pregunta extreta del PDF exactament.",
             "images": [
-              "assets/img/exams/auto_ext_wuolah-free-tac12346_(1)_p0_b0.png"
+              "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p0_b0.png"
             ]
           },
           {
@@ -1482,97 +1482,54 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #1)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 27",
+              "Gestió recursos 25",
               "Evitar interrupcions",
-              "Crear 27 zombis",
+              "Crear 25 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 21",
+              "Gestió recursos 31",
               "Evitar interrupcions",
-              "Crear 21 zombis",
+              "Crear 31 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
             ],
             "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
           },
           {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
+              "Gestió recursos 33",
               "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 16",
-              "Evitar interrupcions",
-              "Crear 16 zombis",
+              "Crear 33 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -1588,97 +1545,28 @@ const testsData = {
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #2)",
-        "questions": [
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
           },
           {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 36",
+              "Gestió recursos 37",
               "Evitar interrupcions",
-              "Crear 36 zombis",
+              "Crear 37 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
+              "Gestió recursos 39",
               "Evitar interrupcions",
-              "Crear 28 zombis",
+              "Crear 39 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 11",
-              "Evitar interrupcions",
-              "Crear 11 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 33",
-              "Evitar interrupcions",
-              "Crear 33 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
           },
           {
             "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
@@ -1692,11 +1580,123 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #2)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+            ],
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 33",
+              "Evitar interrupcions",
+              "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 10",
+              "Evitar interrupcions",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 12",
               "Evitar interrupcions",
               "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -1708,111 +1708,80 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #3)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 16",
+              "Gestió recursos 33",
               "Evitar interrupcions",
-              "Crear 16 zombis",
+              "Crear 33 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 12",
+              "Gestió recursos 34",
               "Evitar interrupcions",
-              "Crear 12 zombis",
+              "Crear 34 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 22",
+              "Gestió recursos 3",
               "Evitar interrupcions",
-              "Crear 22 zombis",
+              "Crear 3 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
             ],
             "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 11",
-              "Evitar interrupcions",
-              "Crear 11 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 19",
-              "Evitar interrupcions",
-              "Crear 19 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
-            ],
-            "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
-          },
-          {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
-            "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
-            ],
-            "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
           },
           {
             "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
@@ -1826,22 +1795,54 @@ const testsData = {
             "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
           },
           {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 26",
+              "Gestió recursos 12",
               "Evitar interrupcions",
-              "Crear 26 zombis",
+              "Crear 12 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
             "options": [
-              "Gestió recursos 27",
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 32",
               "Evitar interrupcions",
-              "Crear 27 zombis",
+              "Crear 32 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 7",
+              "Evitar interrupcions",
+              "Crear 7 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -1853,11 +1854,22 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #4)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 13",
+              "Gestió recursos 5",
               "Evitar interrupcions",
-              "Crear 13 zombis",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -1874,131 +1886,108 @@ const testsData = {
             "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
           },
           {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 15 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 14",
+              "Gestió recursos 15",
               "Evitar interrupcions",
-              "Crear 14 zombis",
+              "Crear 15 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 16",
+              "Gestió recursos 17",
               "Evitar interrupcions",
-              "Crear 16 zombis",
+              "Crear 17 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
             "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 37",
-              "Evitar interrupcions",
-              "Crear 37 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
-            "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
-            ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 22",
-              "Evitar interrupcions",
-              "Crear 22 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
             ],
             "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
           },
           {
-            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 6",
+              "Gestió recursos 30",
               "Evitar interrupcions",
-              "Crear 6 zombis",
+              "Crear 30 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
             "options": [
-              "Gestió recursos 9",
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 4",
               "Evitar interrupcions",
-              "Crear 9 zombis",
+              "Crear 4 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 3",
+              "Gestió recursos 34",
               "Evitar interrupcions",
-              "Crear 3 zombis",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -2010,15 +1999,36 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #5)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 29",
+              "Gestió recursos 5",
               "Evitar interrupcions",
-              "Crear 29 zombis",
+              "Crear 5 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "options": [
+              "Paused, Starting i Stopping.",
+              "Create, Destroy, Background i Foreground",
+              "Run, Ready i Blocked (Suspend o Wait).",
+              "Hault, Fetch o Decode operatiu."
+            ],
+            "answer": 2,
+            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
+          },
+          {
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "options": [
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+            ],
+            "answer": 1,
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
           },
           {
             "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
@@ -2032,11 +2042,1030 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #6)",
+        "questions": [
+          {
             "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 33",
               "Evitar interrupcions",
               "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 16",
+              "Evitar interrupcions",
+              "Crear 16 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 27",
+              "Evitar interrupcions",
+              "Crear 27 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #7)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 25",
+              "Evitar interrupcions",
+              "Crear 25 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #8)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 1",
+              "Evitar interrupcions",
+              "Crear 1 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 6",
+              "Evitar interrupcions",
+              "Crear 6 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #9)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "options": [
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "options": [
+              "No hi ha cap diferencia, presten el mateix propòsit complet.",
+              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
+              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
+              "El kernel no pot executar en mode privilegiat."
+            ],
+            "answer": 2,
+            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 26",
+              "Evitar interrupcions",
+              "Crear 26 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #10)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 11",
+              "Evitar interrupcions",
+              "Crear 11 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 26",
+              "Evitar interrupcions",
+              "Crear 26 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 25",
+              "Evitar interrupcions",
+              "Crear 25 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 27",
+              "Evitar interrupcions",
+              "Crear 27 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 22",
+              "Evitar interrupcions",
+              "Crear 22 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #11)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "options": [
+              "Paused, Starting i Stopping.",
+              "Create, Destroy, Background i Foreground",
+              "Run, Ready i Blocked (Suspend o Wait).",
+              "Hault, Fetch o Decode operatiu."
+            ],
+            "answer": 2,
+            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
+          },
+          {
+            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "options": [
+              "SJF (Shortest Job First).",
+              "FCFS (First Come, First Served).",
+              "Multinivell amb retroalimentació."
+            ],
+            "answer": 1,
+            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 0",
+              "Evitar interrupcions",
+              "Crear 0 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 16",
+              "Evitar interrupcions",
+              "Crear 16 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #12)",
+        "questions": [
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 36",
+              "Evitar interrupcions",
+              "Crear 36 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 7",
+              "Evitar interrupcions",
+              "Crear 7 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "options": [
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+            ],
+            "answer": 1,
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 10",
+              "Evitar interrupcions",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 1",
+              "Evitar interrupcions",
+              "Crear 1 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #13)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -2054,24 +3083,59 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
+              "Gestió recursos 21",
+              "Evitar interrupcions",
+              "Crear 21 zombis",
+              "Processament de text"
             ],
             "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
             "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
@@ -2085,350 +3149,6 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 30",
-              "Evitar interrupcions",
-              "Crear 30 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 1",
-              "Evitar interrupcions",
-              "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #6)",
-        "questions": [
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 21",
-              "Evitar interrupcions",
-              "Crear 21 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
-            "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
-            ],
-            "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
-            "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
-          },
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 19",
-              "Evitar interrupcions",
-              "Crear 19 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #7)",
-        "questions": [
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
-              "Evitar interrupcions",
-              "Crear 25 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 37",
-              "Evitar interrupcions",
-              "Crear 37 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #8)",
-        "questions": [
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
             "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
             "options": [
               "No hi ha cap diferencia, presten el mateix propòsit complet.",
@@ -2438,338 +3158,6 @@ const testsData = {
             ],
             "answer": 2,
             "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 15 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 15",
-              "Evitar interrupcions",
-              "Crear 15 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 33",
-              "Evitar interrupcions",
-              "Crear 33 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 11",
-              "Evitar interrupcions",
-              "Crear 11 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 31",
-              "Evitar interrupcions",
-              "Crear 31 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #9)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 14",
-              "Evitar interrupcions",
-              "Crear 14 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
-            "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 21",
-              "Evitar interrupcions",
-              "Crear 21 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 9",
-              "Evitar interrupcions",
-              "Crear 9 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
-              "Evitar interrupcions",
-              "Crear 25 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #10)",
-        "questions": [
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
-            "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 12",
-              "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
             "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
@@ -2792,117 +3180,29 @@ const testsData = {
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 32",
-              "Evitar interrupcions",
-              "Crear 32 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           }
         ]
       },
       {
-        "title": "Simulacre Pràctic P1 (Variant #11)",
+        "title": "Simulacre Pràctic P1 (Variant #14)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 30",
+              "Gestió recursos 23",
               "Evitar interrupcions",
-              "Crear 30 zombis",
+              "Crear 23 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 21",
+              "Gestió recursos 33",
               "Evitar interrupcions",
-              "Crear 21 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 6",
-              "Evitar interrupcions",
-              "Crear 6 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
-              "Evitar interrupcions",
-              "Crear 25 zombis",
+              "Crear 33 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -2919,158 +3219,11 @@ const testsData = {
             "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
           },
           {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 31",
-              "Evitar interrupcions",
-              "Crear 31 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #12)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
-            ],
-            "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
-          },
-          {
             "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 1",
               "Evitar interrupcions",
               "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 14",
-              "Evitar interrupcions",
-              "Crear 14 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3087,22 +3240,6 @@ const testsData = {
             "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
           },
           {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #13)",
-        "questions": [
-          {
             "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
             "options": [
               "Sistemes de Lots Serials Monoprogramats antics.",
@@ -3112,27 +3249,6 @@ const testsData = {
             ],
             "answer": 1,
             "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 1",
-              "Evitar interrupcions",
-              "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
           },
           {
             "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
@@ -3146,65 +3262,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
+              "Gestió recursos 28",
               "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 32",
-              "Evitar interrupcions",
-              "Crear 32 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
+              "Crear 28 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3222,6 +3284,27 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
             "options": [
               "És altíssimament segur.",
@@ -3234,25 +3317,45 @@ const testsData = {
         ]
       },
       {
-        "title": "Simulacre Pràctic P1 (Variant #14)",
+        "title": "Simulacre Pràctic P1 (Variant #15)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 3",
+              "Gestió recursos 21",
               "Evitar interrupcions",
-              "Crear 3 zombis",
+              "Crear 21 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
             "options": [
-              "Gestió recursos 33",
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+            ],
+            "answer": 1,
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 11",
               "Evitar interrupcions",
-              "Crear 33 zombis",
+              "Crear 11 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3269,15 +3372,56 @@ const testsData = {
             "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
           },
           {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 31",
+              "Gestió recursos 28",
               "Evitar interrupcions",
-              "Crear 31 zombis",
+              "Crear 28 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+            ],
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
           },
           {
             "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
@@ -3291,213 +3435,22 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 16",
+              "Gestió recursos 27",
               "Evitar interrupcions",
-              "Crear 16 zombis",
+              "Crear 27 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
-            "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
+              "Gestió recursos 18",
               "Evitar interrupcions",
-              "Crear 25 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 15 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 15",
-              "Evitar interrupcions",
-              "Crear 15 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #15)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 33",
-              "Evitar interrupcions",
-              "Crear 33 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
-              "Evitar interrupcions",
-              "Crear 25 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 19",
-              "Evitar interrupcions",
-              "Crear 19 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
+              "Crear 18 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3509,6 +3462,70 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #16)",
         "questions": [
           {
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "options": [
+              "No hi ha cap diferencia, presten el mateix propòsit complet.",
+              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
+              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
+              "El kernel no pot executar en mode privilegiat."
+            ],
+            "answer": 2,
+            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 2",
@@ -3520,14 +3537,149 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
             "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
             ],
             "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 22",
+              "Evitar interrupcions",
+              "Crear 22 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #17)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 1",
+              "Evitar interrupcions",
+              "Crear 1 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "options": [
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
+          },
+          {
+            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "options": [
+              "Paused, Starting i Stopping.",
+              "Create, Destroy, Background i Foreground",
+              "Run, Ready i Blocked (Suspend o Wait).",
+              "Hault, Fetch o Decode operatiu."
+            ],
+            "answer": 2,
+            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
             "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
@@ -3541,22 +3693,225 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 7",
+              "Gestió recursos 35",
               "Evitar interrupcions",
-              "Crear 7 zombis",
+              "Crear 35 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
             "options": [
-              "Gestió recursos 16",
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
               "Evitar interrupcions",
-              "Crear 16 zombis",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 21",
+              "Evitar interrupcions",
+              "Crear 21 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #18)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+            ],
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #19)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 31",
+              "Evitar interrupcions",
+              "Crear 31 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3574,6 +3929,49 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "options": [
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 32",
@@ -3585,11 +3983,194 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 13",
+              "Evitar interrupcions",
+              "Crear 13 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #20)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 12",
+              "Evitar interrupcions",
+              "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 18",
               "Evitar interrupcions",
               "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "options": [
+              "Paused, Starting i Stopping.",
+              "Create, Destroy, Background i Foreground",
+              "Run, Ready i Blocked (Suspend o Wait).",
+              "Hault, Fetch o Decode operatiu."
+            ],
+            "answer": 2,
+            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #21)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -3607,6 +4188,142 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 32",
+              "Evitar interrupcions",
+              "Crear 32 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 4",
+              "Evitar interrupcions",
+              "Crear 4 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #22)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 22",
+              "Evitar interrupcions",
+              "Crear 22 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 1",
+              "Evitar interrupcions",
+              "Crear 1 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 3",
@@ -3616,6 +4333,149 @@ const testsData = {
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "options": [
+              "SJF (Shortest Job First).",
+              "FCFS (First Come, First Served).",
+              "Multinivell amb retroalimentació."
+            ],
+            "answer": 1,
+            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "options": [
+              "100% Monolítica clàssica tancada de UNIX V",
+              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
+              "Arquitectura Tipus Microkernel de passos missatges IPC",
+              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+            ],
+            "answer": 2,
+            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 12",
+              "Evitar interrupcions",
+              "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #23)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+            ],
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
           },
           {
             "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
@@ -3638,209 +4498,28 @@ const testsData = {
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #17)",
-        "questions": [
+          },
           {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 12",
+              "Gestió recursos 22",
               "Evitar interrupcions",
-              "Crear 12 zombis",
+              "Crear 22 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
-            ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
-            ],
-            "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
+              "Gestió recursos 25",
               "Evitar interrupcions",
-              "Crear 20 zombis",
+              "Crear 25 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #18)",
-        "questions": [
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
-            ],
-            "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 9",
-              "Evitar interrupcions",
-              "Crear 9 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
           },
           {
             "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
@@ -3854,692 +4533,6 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #19)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 16",
-              "Evitar interrupcions",
-              "Crear 16 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 33",
-              "Evitar interrupcions",
-              "Crear 33 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
-              "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 6",
-              "Evitar interrupcions",
-              "Crear 6 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 23",
-              "Evitar interrupcions",
-              "Crear 23 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
-            "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #20)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 15 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 15",
-              "Evitar interrupcions",
-              "Crear 15 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 31",
-              "Evitar interrupcions",
-              "Crear 31 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 23",
-              "Evitar interrupcions",
-              "Crear 23 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
-            "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
-            ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 32",
-              "Evitar interrupcions",
-              "Crear 32 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 6",
-              "Evitar interrupcions",
-              "Crear 6 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
-              "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #21)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #22)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 9",
-              "Evitar interrupcions",
-              "Crear 9 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
-            "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
-            ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 23",
-              "Evitar interrupcions",
-              "Crear 23 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 14",
-              "Evitar interrupcions",
-              "Crear 14 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
-              "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #23)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 16",
-              "Evitar interrupcions",
-              "Crear 16 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
-            "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
-            ],
-            "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
             "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 27",
@@ -4551,52 +4544,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
-            ],
-            "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
-          },
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
+              "Gestió recursos 19",
               "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
+              "Crear 19 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -4619,240 +4571,6 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 32",
-              "Evitar interrupcions",
-              "Crear 32 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 12",
-              "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #25)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
-              "Evitar interrupcions",
-              "Crear 17 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 21",
-              "Evitar interrupcions",
-              "Crear 21 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 2",
-              "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 14",
-              "Evitar interrupcions",
-              "Crear 14 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
             "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 19",
@@ -4864,11 +4582,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 4",
+              "Gestió recursos 20",
               "Evitar interrupcions",
-              "Crear 4 zombis",
+              "Crear 20 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -4886,33 +4604,6 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #26)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
             "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 38",
@@ -4935,14 +4626,94 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Per permetre que els programes d'usuari facin crides de xarxa.",
-              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
-              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
             ],
             "answer": 1,
-            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 25",
+              "Evitar interrupcions",
+              "Crear 25 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "options": [
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+            ],
+            "answer": 1,
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #25)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 21",
+              "Evitar interrupcions",
+              "Crear 21 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 6",
+              "Evitar interrupcions",
+              "Crear 6 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
           },
           {
             "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
@@ -4956,65 +4727,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 36",
+              "Gestió recursos 17",
               "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 14",
-              "Evitar interrupcions",
-              "Crear 14 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
-            "options": [
-              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
-              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
-              "Fer fora de CPU a processos amb alta prioritat per inanició."
-            ],
-            "answer": 0,
-            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 30",
-              "Evitar interrupcions",
-              "Crear 30 zombis",
+              "Crear 17 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5032,102 +4749,22 @@ const testsData = {
             "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
           },
           {
-            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 19",
+              "Gestió recursos 32",
               "Evitar interrupcions",
-              "Crear 19 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #27)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
+              "Crear 32 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
-            ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
+              "Gestió recursos 37",
               "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
+              "Crear 37 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5145,36 +4782,95 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #26)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
             ],
             "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
           },
           {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 5",
+              "Gestió recursos 18",
               "Evitar interrupcions",
-              "Crear 5 zombis",
+              "Crear 18 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 31",
+              "Gestió recursos 22",
               "Evitar interrupcions",
-              "Crear 31 zombis",
+              "Crear 22 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 2",
+              "Evitar interrupcions",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          },
+          {
+            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "options": [
+              "No hi ha cap diferencia, presten el mateix propòsit complet.",
+              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
+              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
+              "El kernel no pot executar en mode privilegiat."
+            ],
+            "answer": 2,
+            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
           },
           {
             "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
@@ -5186,21 +4882,17 @@ const testsData = {
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #28)",
-        "questions": [
+          },
           {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
             ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
             "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
@@ -5208,6 +4900,87 @@ const testsData = {
               "Gestió recursos 14",
               "Evitar interrupcions",
               "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 12",
+              "Evitar interrupcions",
+              "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #27)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 37",
+              "Evitar interrupcions",
+              "Crear 37 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 11",
+              "Evitar interrupcions",
+              "Crear 11 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 7",
+              "Evitar interrupcions",
+              "Crear 7 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5225,33 +4998,183 @@ const testsData = {
             "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
           },
           {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 1",
+              "Gestió recursos 4",
               "Evitar interrupcions",
-              "Crear 1 zombis",
+              "Crear 4 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 28",
+              "Gestió recursos 26",
               "Evitar interrupcions",
-              "Crear 28 zombis",
+              "Crear 26 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 5",
+              "Gestió recursos 34",
               "Evitar interrupcions",
-              "Crear 5 zombis",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 33",
+              "Evitar interrupcions",
+              "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #28)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 21",
+              "Evitar interrupcions",
+              "Crear 21 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "options": [
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+            ],
+            "answer": 1,
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 16",
+              "Evitar interrupcions",
+              "Crear 16 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 6",
+              "Evitar interrupcions",
+              "Crear 6 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 31",
+              "Evitar interrupcions",
+              "Crear 31 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 8",
+              "Evitar interrupcions",
+              "Crear 8 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #29)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 12",
+              "Evitar interrupcions",
+              "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5269,133 +5192,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 12",
+              "Gestió recursos 24",
               "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 23",
-              "Evitar interrupcions",
-              "Crear 23 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #29)",
-        "questions": [
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 9",
-              "Evitar interrupcions",
-              "Crear 9 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 1",
-              "Evitar interrupcions",
-              "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 22",
-              "Evitar interrupcions",
-              "Crear 22 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
+              "Crear 24 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5413,22 +5214,85 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
             "options": [
-              "Gestió recursos 38",
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
               "Evitar interrupcions",
-              "Crear 38 zombis",
+              "Crear 17 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 26",
+              "Gestió recursos 4",
               "Evitar interrupcions",
-              "Crear 26 zombis",
+              "Crear 4 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 31",
+              "Evitar interrupcions",
+              "Crear 31 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "options": [
+              "SJF (Shortest Job First).",
+              "FCFS (First Come, First Served).",
+              "Multinivell amb retroalimentació."
+            ],
+            "answer": 1,
+            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 16",
+              "Evitar interrupcions",
+              "Crear 16 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5451,74 +5315,21 @@ const testsData = {
         "title": "Simulacre Pràctic P1 (Variant #30)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
             "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 5",
-              "Evitar interrupcions",
-              "Crear 5 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
             ],
             "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
           },
           {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "q": "(General) Quina és una de les finalitats 37 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
-            "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
-            ],
-            "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
+              "Gestió recursos 37",
               "Evitar interrupcions",
-              "Crear 7 zombis",
+              "Crear 37 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5536,193 +5347,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 2",
+              "Gestió recursos 36",
               "Evitar interrupcions",
-              "Crear 2 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
-            "options": [
-              "Sistemes de Lots Serials Monoprogramats antics.",
-              "Sistemes Multiprogramats no-apropiatius per a treballs.",
-              "Programació per Interrupcions de Kernel aillades.",
-              "Sistemes Temps Compatit Pur per Interactivitat."
-            ],
-            "answer": 1,
-            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
-            "options": [
-              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
-              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
-              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
-            ],
-            "answer": 1,
-            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #31)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 23",
-              "Evitar interrupcions",
-              "Crear 23 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 19",
-              "Evitar interrupcions",
-              "Crear 19 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
-            "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
-            ],
-            "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 12",
-              "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #32)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
+              "Crear 36 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5740,59 +5369,15 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
             "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
             ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 24",
-              "Evitar interrupcions",
-              "Crear 24 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 27",
-              "Evitar interrupcions",
-              "Crear 27 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 31",
-              "Evitar interrupcions",
-              "Crear 31 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 33",
-              "Evitar interrupcions",
-              "Crear 33 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
           },
           {
             "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
@@ -5803,6 +5388,108 @@ const testsData = {
             ],
             "answer": 2,
             "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 38",
+              "Evitar interrupcions",
+              "Crear 38 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #31)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 11",
+              "Evitar interrupcions",
+              "Crear 11 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
             "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
@@ -5810,128 +5497,6 @@ const testsData = {
               "Gestió recursos 36",
               "Evitar interrupcions",
               "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #33)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 22",
-              "Evitar interrupcions",
-              "Crear 22 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
-            "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
-            ],
-            "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 13",
-              "Evitar interrupcions",
-              "Crear 13 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
-            "options": [
-              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
-              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
-              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
-            ],
-            "answer": 2,
-            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 4",
-              "Evitar interrupcions",
-              "Crear 4 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 30",
-              "Evitar interrupcions",
-              "Crear 30 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
-            "options": [
-              "Absolutament res, amdbós termes descriuen el mateix SO.",
-              "La utilització d'estrategies de paginació i swappng de disc pur.",
-              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
-            ],
-            "answer": 2,
-            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5949,37 +5514,114 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 14",
+              "Gestió recursos 7",
               "Evitar interrupcions",
-              "Crear 14 zombis",
+              "Crear 7 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 27",
+              "Evitar interrupcions",
+              "Crear 27 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 10",
+              "Evitar interrupcions",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 15 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 15",
+              "Evitar interrupcions",
+              "Crear 15 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "options": [
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+            ],
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
           }
         ]
       },
       {
-        "title": "Simulacre Pràctic P1 (Variant #34)",
+        "title": "Simulacre Pràctic P1 (Variant #32)",
         "questions": [
           {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
+              "Gestió recursos 9",
+              "Evitar interrupcions",
+              "Crear 9 zombis",
+              "Processament de text"
             ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 11",
+              "Gestió recursos 2",
               "Evitar interrupcions",
-              "Crear 11 zombis",
+              "Crear 2 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 30",
+              "Evitar interrupcions",
+              "Crear 30 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -5996,33 +5638,21 @@ const testsData = {
             "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
           },
           {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
             "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
             ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
           },
           {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
+              "Gestió recursos 3",
               "Evitar interrupcions",
-              "Crear 25 zombis",
+              "Crear 3 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6040,11 +5670,382 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 7",
+              "Evitar interrupcions",
+              "Crear 7 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 4 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 4",
+              "Evitar interrupcions",
+              "Crear 4 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
             "options": [
               "Gestió recursos 32",
               "Evitar interrupcions",
               "Crear 32 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què produeix una anomalia 'efecte comboi' (Convoy Effect)?",
+            "options": [
+              "Un procés molt CPU-intensiu i llarg en un sistema no apropiatiu retarda totalment a processos molt curts darrere seu.",
+              "Un dispositiu de xarxa monopolitzant contínuament el DMA sencer de la placa base.",
+              "Fer fora de CPU a processos amb alta prioritat per inanició."
+            ],
+            "answer": 0,
+            "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #33)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 20",
+              "Evitar interrupcions",
+              "Crear 20 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "options": [
+              "SJF (Shortest Job First).",
+              "FCFS (First Come, First Served).",
+              "Multinivell amb retroalimentació."
+            ],
+            "answer": 1,
+            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 33",
+              "Evitar interrupcions",
+              "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "options": [
+              "Paused, Starting i Stopping.",
+              "Create, Destroy, Background i Foreground",
+              "Run, Ready i Blocked (Suspend o Wait).",
+              "Hault, Fetch o Decode operatiu."
+            ],
+            "answer": 2,
+            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 35",
+              "Evitar interrupcions",
+              "Crear 35 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 10",
+              "Evitar interrupcions",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 36",
+              "Evitar interrupcions",
+              "Crear 36 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #34)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 19 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 19",
+              "Evitar interrupcions",
+              "Crear 19 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
+            "options": [
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
+            ],
+            "answer": 2,
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 32",
+              "Evitar interrupcions",
+              "Crear 32 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 10",
+              "Evitar interrupcions",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 12",
+              "Evitar interrupcions",
+              "Crear 12 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 3",
+              "Evitar interrupcions",
+              "Crear 3 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 13",
+              "Evitar interrupcions",
+              "Crear 13 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 27",
+              "Evitar interrupcions",
+              "Crear 27 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #35)",
+        "questions": [
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 21",
+              "Evitar interrupcions",
+              "Crear 21 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6072,183 +6073,22 @@ const testsData = {
             "explanation": "Sol passar al sistema FCFS (First Come, First Serve) pur on un procés gegant col·lapsa l'arribada rere seu de múltiples processos 'ràpids'."
           },
           {
-            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 5",
+              "Gestió recursos 18",
               "Evitar interrupcions",
-              "Crear 5 zombis",
+              "Crear 18 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 12",
+              "Gestió recursos 32",
               "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #35)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 20 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 20",
-              "Evitar interrupcions",
-              "Crear 20 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 1",
-              "Evitar interrupcions",
-              "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
-            "options": [
-              "S'ha demanat crear un procés fill // i un context switch posterior.",
-              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
-              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
-            ],
-            "answer": 2,
-            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 3",
-              "Evitar interrupcions",
-              "Crear 3 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 9",
-              "Evitar interrupcions",
-              "Crear 9 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 7",
-              "Evitar interrupcions",
-              "Crear 7 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #36)",
-        "questions": [
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 12",
-              "Evitar interrupcions",
-              "Crear 12 zombis",
+              "Crear 32 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6266,271 +6106,36 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
             "options": [
-              "No hi ha cap diferencia, presten el mateix propòsit complet.",
-              "El kernel controla exclusivament el software i el sistema operatiu el hardware.",
-              "El sistema operatiu conté el kernel (nucli pincipal de control hw) a més de les aplicacions/utilitats de sistema.",
-              "El kernel no pot executar en mode privilegiat."
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
             ],
-            "answer": 2,
-            "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 25",
-              "Evitar interrupcions",
-              "Crear 25 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
-            "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 18",
-              "Evitar interrupcions",
-              "Crear 18 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 36",
-              "Evitar interrupcions",
-              "Crear 36 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 1 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 1",
-              "Evitar interrupcions",
-              "Crear 1 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
           }
         ]
       },
       {
-        "title": "Simulacre Pràctic P1 (Variant #37)",
+        "title": "Simulacre Pràctic P1 (Variant #36)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Una evolució: Run → Blocked → Ready... Què causa tìpicament l'anada a Blocked del procés M, i posteriorment el retorn a Ready?",
             "options": [
-              "Gestió recursos 29",
-              "Evitar interrupcions",
-              "Crear 29 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 28",
-              "Evitar interrupcions",
-              "Crear 28 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
-              "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
-              "Evitar interrupcions",
-              "Crear 38 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 6",
-              "Evitar interrupcions",
-              "Crear 6 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
-            "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 21",
-              "Evitar interrupcions",
-              "Crear 21 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 35 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 35",
-              "Evitar interrupcions",
-              "Crear 35 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
-            "options": [
-              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
-              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
-              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
-            ],
-            "answer": 1,
-            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 22",
-              "Evitar interrupcions",
-              "Crear 22 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #38)",
-        "questions": [
-          {
-            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 12",
-              "Evitar interrupcions",
-              "Crear 12 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 8",
-              "Evitar interrupcions",
-              "Crear 8 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
+              "S'ha demanat crear un procés fill // i un context switch posterior.",
+              "El quantum del timer ha caducat // i el procés ja s'ha refredat.",
+              "M demana llegir un fitxer (Syscall E/S) // l'E/S finalitza i el disc llença interrupció HW de fi."
             ],
             "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
+            "explanation": "Run a Blocked és voluntari (demano lectura a disc, la CPU va molt ràpida i m'he d'esperar). El disc avisa per HW (interrupció) i el kernel em posa de Blocked a Ready."
           },
           {
-            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 30",
+              "Gestió recursos 11",
               "Evitar interrupcions",
-              "Crear 30 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 10",
-              "Evitar interrupcions",
-              "Crear 10 zombis",
+              "Crear 11 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6548,44 +6153,31 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
             "options": [
-              "Gestió recursos 0",
-              "Evitar interrupcions",
-              "Crear 0 zombis",
-              "Processament de text"
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
             ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
           },
           {
-            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
             "options": [
-              "Gestió recursos 39",
-              "Evitar interrupcions",
-              "Crear 39 zombis",
-              "Processament de text"
+              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
+              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
+              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
             ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+            "answer": 1,
+            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
           },
           {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 34",
+              "Gestió recursos 7",
               "Evitar interrupcions",
-              "Crear 34 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 26",
-              "Evitar interrupcions",
-              "Crear 26 zombis",
+              "Crear 7 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6603,47 +6195,22 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 2 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 25",
+              "Gestió recursos 2",
               "Evitar interrupcions",
-              "Crear 25 zombis",
+              "Crear 2 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
-              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
-              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
-            ],
-            "answer": 1,
-            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
-          }
-        ]
-      },
-      {
-        "title": "Simulacre Pràctic P1 (Variant #39)",
-        "questions": [
-          {
-            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
-            "options": [
-              "És altíssimament segur.",
-              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
-              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
-            ],
-            "answer": 1,
-            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 38 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 38",
+              "Gestió recursos 21",
               "Evitar interrupcions",
-              "Crear 38 zombis",
+              "Crear 21 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6661,32 +6228,145 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 0",
+              "Gestió recursos 18",
               "Evitar interrupcions",
-              "Crear 0 zombis",
+              "Crear 18 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "Imagina un planificador que usa Round Robin pur on el quant (quantum) és enorme i tendeix a infinit. A quin altre algorisme s'assemblarà aquest comportament?",
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
             "options": [
-              "SJF (Shortest Job First).",
-              "FCFS (First Come, First Served).",
-              "Multinivell amb retroalimentació."
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
             ],
             "answer": 1,
-            "explanation": "Si el quantum és infinit, els processos no són apropiats (expulsats) mai pel timer. Entraran per ordre d'arribada i sortiran quan vulguin (FCFS)."
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
           },
           {
-            "q": "(General) Quina és una de les finalitats 9 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 9",
+              "Gestió recursos 10",
               "Evitar interrupcions",
-              "Crear 9 zombis",
+              "Crear 10 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #37)",
+        "questions": [
+          {
+            "q": "(General) Quina és una de les finalitats 31 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 31",
+              "Evitar interrupcions",
+              "Crear 31 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 29 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 29",
+              "Evitar interrupcions",
+              "Crear 29 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 13 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 13",
+              "Evitar interrupcions",
+              "Crear 13 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 5 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 5",
+              "Evitar interrupcions",
+              "Crear 5 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 33",
+              "Evitar interrupcions",
+              "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin d'aquests sistemes preten donar i aconseguir la *millor productivitat* o eficiència global d'ús màxim (Throughput) de la CPU?",
+            "options": [
+              "Sistemes de Lots Serials Monoprogramats antics.",
+              "Sistemes Multiprogramats no-apropiatius per a treballs.",
+              "Programació per Interrupcions de Kernel aillades.",
+              "Sistemes Temps Compatit Pur per Interactivitat."
+            ],
+            "answer": 1,
+            "explanation": "Nota: el pur Multiprogramat té millor throughput global perquè no perd tant temps 'context switching'."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 14",
+              "Evitar interrupcions",
+              "Crear 14 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 32 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 32",
+              "Evitar interrupcions",
+              "Crear 32 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6704,6 +6384,28 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
             "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
             "options": [
               "No hi ha cap diferencia, presten el mateix propòsit complet.",
@@ -6713,17 +6415,138 @@ const testsData = {
             ],
             "answer": 2,
             "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
-          },
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #38)",
+        "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 14 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 26",
+              "Gestió recursos 14",
               "Evitar interrupcions",
-              "Crear 26 zombis",
+              "Crear 14 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 24 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 24",
+              "Evitar interrupcions",
+              "Crear 24 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quan parlem d'Arquitectura de Microkernel, quina és la seva GRAN fortalesa?",
+            "options": [
+              "Moltíssim rendiment en comparació amb solucions monolítiques degut a poques interrupcions.",
+              "Seguretat i estabilitat: la majoria de subsistemes d'E/S i funcions de SO operen com processos d'usuari aïllats.",
+              "Usa zero memòria virtual alhora d'arrancar l'ordindar per estalviar RAM."
+            ],
+            "answer": 1,
+            "explanation": "Aïlla completament els serveis SO a espai usuari. Si el driver de xarxa peta, el sistema no peta."
+          },
+          {
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "options": [
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 34",
+              "Evitar interrupcions",
+              "Crear 34 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Per a què es fan servir primordialment les interrupcions als dispositius?",
+            "options": [
+              "Per permetre que els programes d'usuari facin crides de xarxa.",
+              "Per a informar al kernel que un dispositiu de hardware ha finalitzat l'operació sol·licitada.",
+              "Per permetre que un programa faci E/S directament al disc evitant el kernel."
+            ],
+            "answer": 1,
+            "explanation": "Les interrupcions són mecanismes asíncons hardware que notifiquen al processador d'events."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 6 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 6",
+              "Evitar interrupcions",
+              "Crear 6 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 18 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 18",
+              "Evitar interrupcions",
+              "Crear 18 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quin és l'avantatge primordial del planificador SJF (Shortest Job First)?",
+            "options": [
+              "És altíssimament segur.",
+              "És matemàticament idoni: llança el menor temps MIG d'ESPERA possible combinant tota la cua de Ready en un vector perfecte.",
+              "Fàcil implementació real exacte en sistemes domèstics atès conéixer de veritat futurs clars d'un processador."
+            ],
+            "answer": 1,
+            "explanation": "SJF minimitza l'espera mitja col·locant el més ràpid primer, per evitar el comboi. Problema: En veritat NO COMPTE EL FUTUR (usant per tant heurístiques/exp net/est), i genera inanició a tasques llargues."
+          },
+          {
+            "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
+            "options": [
+              "Permet establir accés directe entre discs compartits per varies CPUs de forma paralela.",
+              "Permet l'assignació indirecta d'adreces virtuals de disc pur a la CPU.",
+              "Permet fer transferències complexes i grans blocs d'informació entre disc o dispositius E/S i la RAM sense usar temps contínu de la CPU."
+            ],
+            "answer": 2,
+            "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
           },
           {
             "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
@@ -6737,44 +6560,11 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 22",
+              "Gestió recursos 28",
               "Evitar interrupcions",
-              "Crear 22 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 16 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 16",
-              "Evitar interrupcions",
-              "Crear 16 zombis",
-              "Processament de text"
-            ],
-            "answer": 0,
-            "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
-          {
-            "q": "L'estructura del SO 'Mach', precursora de SO com el d'Apple a nivells essencials d'arrel per seguretat va canviar el mercat usant una estructura...",
-            "options": [
-              "100% Monolítica clàssica tancada de UNIX V",
-              "Tipus Arbre de xarxa multinivell descentralitzat de Google i Oracle",
-              "Arquitectura Tipus Microkernel de passos missatges IPC",
-              "Tipus purament Multi-Procès obert (Hardware SMP only)"
-            ],
-            "answer": 2,
-            "explanation": "Mach va ser un intent fort modern als 80s / 90s per imposar l'arquitectura Microkernel."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 34 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 34",
-              "Evitar interrupcions",
-              "Crear 34 zombis",
+              "Crear 28 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6783,25 +6573,47 @@ const testsData = {
         ]
       },
       {
-        "title": "Simulacre Pràctic P1 (Variant #40)",
+        "title": "Simulacre Pràctic P1 (Variant #39)",
         "questions": [
           {
-            "q": "(General) Quina és una de les finalitats 22 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 30 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 22",
+              "Gestió recursos 30",
               "Evitar interrupcions",
-              "Crear 22 zombis",
+              "Crear 30 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 11 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 33 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 11",
+              "Gestió recursos 33",
               "Evitar interrupcions",
-              "Crear 11 zombis",
+              "Crear 33 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 26",
+              "Evitar interrupcions",
+              "Crear 26 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 17",
+              "Evitar interrupcions",
+              "Crear 17 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6830,15 +6642,47 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 21 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 0 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 21",
+              "Gestió recursos 0",
               "Evitar interrupcions",
-              "Crear 21 zombis",
+              "Crear 0 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 27 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 27",
+              "Evitar interrupcions",
+              "Crear 27 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 36 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 36",
+              "Evitar interrupcions",
+              "Crear 36 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Què diferencia principalment un SO multiprogramat d'un de temps compartit?",
+            "options": [
+              "Absolutament res, amdbós termes descriuen el mateix SO.",
+              "La utilització d'estrategies de paginació i swappng de disc pur.",
+              "La capacitat fer fora un procés de la CPU sense la seva cooperació (escollint el moment mitjançant apropiació temporal o quanta)."
+            ],
+            "answer": 2,
+            "explanation": "Un SO temps compartit TALLA (preempts) l'execució del procés per repartir interactivitat a d'altres freqüentment."
           },
           {
             "q": "Que permet fer la tècnica de DMA (Direct Memory Access)?",
@@ -6851,33 +6695,27 @@ const testsData = {
             "explanation": "El DMA s'apropia del bus i escriu els blocs de Bytes d'E/S directament a la RAM. La CPU pot fer altres tasques mentrestant."
           },
           {
-            "q": "(General) Quina és una de les finalitats 25 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 25",
+              "Gestió recursos 3",
               "Evitar interrupcions",
-              "Crear 25 zombis",
+              "Crear 3 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
-          },
+          }
+        ]
+      },
+      {
+        "title": "Simulacre Pràctic P1 (Variant #40)",
+        "questions": [
           {
-            "q": "Quines de les següents descripcions representa els 3 estats claus per a cicle de vida operatiu de QUALSEVOL procés bàsic d'un SO?",
+            "q": "(General) Quina és una de les finalitats 3 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Paused, Starting i Stopping.",
-              "Create, Destroy, Background i Foreground",
-              "Run, Ready i Blocked (Suspend o Wait).",
-              "Hault, Fetch o Decode operatiu."
-            ],
-            "answer": 2,
-            "explanation": "Els estats centrals a tota CPU Scheduler són RUN (A l'equip processant), READY (Esperant al Planificador) o BLOCKED."
-          },
-          {
-            "q": "(General) Quina és una de les finalitats 17 d'un Sistema Operatiu de multiprogramació?",
-            "options": [
-              "Gestió recursos 17",
+              "Gestió recursos 3",
               "Evitar interrupcions",
-              "Crear 17 zombis",
+              "Crear 3 zombis",
               "Processament de text"
             ],
             "answer": 0,
@@ -6895,36 +6733,90 @@ const testsData = {
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 7 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 12 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 7",
+              "Gestió recursos 12",
               "Evitar interrupcions",
-              "Crear 7 zombis",
+              "Crear 12 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "(General) Quina és una de les finalitats 8 d'un Sistema Operatiu de multiprogramació?",
+            "q": "(General) Quina és una de les finalitats 10 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Gestió recursos 8",
+              "Gestió recursos 10",
               "Evitar interrupcions",
-              "Crear 8 zombis",
+              "Crear 10 zombis",
               "Processament de text"
             ],
             "answer": 0,
             "explanation": "La gestió és fonamental per qualsevol SO actiu."
           },
           {
-            "q": "En un Planificador típic d'E/S o OS; A qui o a què té per tàrea el 'planificador de mig termini'?",
+            "q": "(General) Quina és una de les finalitats 39 d'un Sistema Operatiu de multiprogramació?",
             "options": [
-              "Garantizar que els PIDs s'assignin per ordre pur seqüencial estricte de naixement del kernel.",
-              "Decidir quan s'ha de treure temporalment tros/parts o el procés sencer de la memòria a disc (swapping) per gestionar hiper-saturació.",
-              "Decidir exclusivament el pròxim procés a passar d'estat READY a RUN abans de temps llargs estancat."
+              "Gestió recursos 39",
+              "Evitar interrupcions",
+              "Crear 39 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 23 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 23",
+              "Evitar interrupcions",
+              "Crear 23 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 28 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 28",
+              "Evitar interrupcions",
+              "Crear 28 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "(General) Quina és una de les finalitats 26 d'un Sistema Operatiu de multiprogramació?",
+            "options": [
+              "Gestió recursos 26",
+              "Evitar interrupcions",
+              "Crear 26 zombis",
+              "Processament de text"
+            ],
+            "answer": 0,
+            "explanation": "La gestió és fonamental per qualsevol SO actiu."
+          },
+          {
+            "q": "Quina descripció defineix correctament la finalitat d'una 'crida de sistema' (System Call)?",
+            "options": [
+              "Gestionar interrupcions dels perifèrics exclusivament hardware.",
+              "Proporcionar una interfície segura entre l'espai d'usuari (aplicacions) i l'espai de nucli (kernel).",
+              "Assignar espai directe al disc dur sense mediació del sistema operatiu."
             ],
             "answer": 1,
-            "explanation": "The medium terms resolves virtual memory problems moving suspended blocks by SWAPPING them continuously to backend Storage drives temporarily."
+            "explanation": "Les aplicacions no poden tocar hardware o tasques crítiques, han de cridar al kernel mitjançant Syscalls (open, read, fork...)."
+          },
+          {
+            "q": "Quina tasca TÍPICA està reservada al planificador de LLARG termini (Job Scheduler)?",
+            "options": [
+              "Seleccionar el pròxim procés a entrar a la CPU des de l'estat Ready.",
+              "Controlar i admetre el grau absolut de multiprogramació del sistema (de Nou a Ready).",
+              "Fer un Swap complet d'un procés bloquejat a disc secundari per falta de RAM."
+            ],
+            "answer": 1,
+            "explanation": "El Job Scheduler (Llarg termini) determina quants i quins programes s'agafen del spool/disc per ser injectats a memòria principal."
           }
         ]
       }
