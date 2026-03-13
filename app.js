@@ -211,6 +211,17 @@ const app = {
 
             let html = `
                 <div class="q-title">${index + 1}. ${q.q}</div>
+            `;
+
+            if (q.images && q.images.length > 0) {
+                html += '<div class="q-images" style="margin: 10px 0; text-align: center;">';
+                q.images.forEach(img => {
+                    html += `<img src="${img}" style="max-width: 100%; border-radius: 8px; margin-bottom: 5px;">`;
+                });
+                html += '</div>';
+            }
+
+            html += `
                 <div class="opts-list">
             `;
 
