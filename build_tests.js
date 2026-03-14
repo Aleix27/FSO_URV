@@ -173,7 +173,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Quins perfils d'usuaris hi ha en un Sistema de computació?",
@@ -184,7 +184,7 @@ const assignaturaExamsArr = [
                     "Lineal, seqüencial i recursiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Els tres perfils d'usuari en un sistema de computació: interactiu, programador i dissenyador."
             },
             {
                 "q": "En ‘Bash’ com passem una variable local a variable global",
@@ -194,8 +194,8 @@ const assignaturaExamsArr = [
                     "Amb la comanda ‘global’.",
                     "Amb la comanda ‘export’."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "La comanda 'export' permet que una variable local sigui accessible com a variable d'entorn global."
             },
             {
                 "q": "Quines feines fa el kernel per a les aplicacions d’usuari?",
@@ -206,7 +206,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Accedir a dispositius d'E/S mitjançant el driver."
+                "explanation": "El kernel gestiona l'accés a dispositius E/S a través dels drivers."
             },
             {
                 "q": "Per que és important que els SO evolucionin:",
@@ -216,8 +216,8 @@ const assignaturaExamsArr = [
                     "Per permetre accés a nous dispositius d'E/S.",
                     "Per garantir que un programa no tingui errors."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "Els SO evolucionen principalment per suportar nou hardware i nous dispositius d'E/S."
             },
             {
                 "q": "Que diferencia un SO multiprogramat d'un de temps compartit?",
@@ -227,8 +227,8 @@ const assignaturaExamsArr = [
                     "La capacitat d'executar-se en un sistema multiprocessador.",
                     "res, és el mateix"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "El temps compartit pot preemptar un procés (treure'l de CPU). El multiprogramat espera que el procés faci E/S."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -239,7 +239,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "El processament per lots (batch) original",
@@ -250,7 +250,7 @@ const assignaturaExamsArr = [
                     "És un tipus de reproductor de música."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "El processament per lots executa programes en cua, un rere l'altre, sense interactivitat."
             },
             {
                 "q": "La multiprogramació està pensada per?",
@@ -260,8 +260,8 @@ const assignaturaExamsArr = [
                     "Incrementar la utilització de la CPU.",
                     "Incrementar el temps de resposta."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "La multiprogramació manté la CPU ocupada mentre processos esperen E/S, maximitzant la utilització."
             },
             {
                 "q": "Quina implementació es més eficient per a una cua de processos Blocked?",
@@ -271,8 +271,8 @@ const assignaturaExamsArr = [
                     "Una cua de prioritats.",
                     "Múltiples cues."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "Una cua de prioritats és la implementació més eficient, els processos de major prioritat es desbloquegen primer."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -283,7 +283,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quins són els tres estats principals d'un procés?",
@@ -293,8 +293,8 @@ const assignaturaExamsArr = [
                     "New, Run i Blocked.",
                     "Run, Blocked i Terminated."
                 ],
-                "answer": 2,
-                "explanation": "Ready, Run i Blocked."
+                "answer": 0,
+                "explanation": "Els tres estats principals: Ready (preparat), Run (executant-se) i Blocked (bloquejat per E/S)."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu de temps  compartit?",
@@ -305,7 +305,7 @@ const assignaturaExamsArr = [
                     "New -> Ready -> Run -> Ready."
                 ],
                 "answer": 0,
-                "explanation": "Run -> Ready -> Blocked -> Run."
+                "explanation": "En un SO temps compartit: Run→Ready (preemptat), Ready→Run (scheduling), Run→Blocked (E/S), Blocked→Ready (E/S completa)."
             },
             {
                 "q": "Què sortirà per pantalla si executem en un intèrpret de python les seguents  comandes:  x=3; y=5; z=x+y; print (z)",
@@ -315,8 +315,8 @@ const assignaturaExamsArr = [
                     "3+5",
                     "8"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "En Python, z=x+y fa la suma aritmètica. x=3, y=5 → z=8."
             },
             {
                 "q": "Quin tipus de SO és Solaris?",
@@ -326,8 +326,8 @@ const assignaturaExamsArr = [
                     "Multiusuari, monoprogramat per cada usuari.",
                     "Mutiprogramant, monothread per cada procés."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "Solaris és un SO multiprogramat de temps compartit amb suport multithread."
             },
             {
                 "q": "El codi que s'executa en una interrupció:",
@@ -337,8 +337,8 @@ const assignaturaExamsArr = [
                     "S'executa en mode usuari del sistema operatiu.",
                     "S'executa en mode kernel del procés d'usuari."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "El gestor d'interrupcions (ISR) pertany al codi del kernel, s'executa en mode privilegiat."
             },
             {
                 "q": "L'objectiu principal que vol assolir una aplicació que esta programada amb  threads?",
@@ -348,8 +348,8 @@ const assignaturaExamsArr = [
                     "És millorar l'utilització de la CPU del sistema.",
                     "És millorar el temps de resposta de l'aplicació. Donat el següent esquema d'execució de tres processos:"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "L'objectiu principal dels threads és millorar el temps de resposta de l'aplicació (concurrència)."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -360,7 +360,7 @@ const assignaturaExamsArr = [
                     "Cap de les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p5_b4.png"
                 ]
@@ -374,7 +374,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p5_b4.png"
                 ]
@@ -388,7 +388,7 @@ const assignaturaExamsArr = [
                     "32"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_examen_fso_temes_1_i_2_any_2022_amb_solucio__1__p5_b4.png"
                 ]
@@ -402,7 +402,7 @@ const assignaturaExamsArr = [
                     "36 Donada la següent execució de dos processos de temps real:"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quin son els períodes dels processos P1 i P2, respectivament:",
@@ -412,8 +412,8 @@ const assignaturaExamsArr = [
                     "100,100",
                     "100,150"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "Del diagrama: P1 té un periode de 50 unitats i P2 de 100 unitats."
             },
             {
                 "q": "En un planificador Rate-Monotonic, quina relació de prioritats tenen P1 i P2?",
@@ -423,8 +423,8 @@ const assignaturaExamsArr = [
                     "P1 > P2.",
                     "No té sentit en un planificador Rate-Monotonic."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "En Rate-Monotonic, el procés amb el periode més curt té més prioritat. P1 (T=50) > P2 (T=100)."
             },
             {
                 "q": "En un planificador Earliest-Deadline-First (EDF), quina relació de prioritats  tindrien P1 i P2?",
@@ -435,7 +435,7 @@ const assignaturaExamsArr = [
                     "P1 > P2."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "EDF assigna prioritats dinàmicament: el procés amb el deadline més proper té la màxima prioritat en cada moment."
             }
         ]
     },
@@ -451,7 +451,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Si diem que un SO controla un programa....",
@@ -461,8 +461,8 @@ const assignaturaExamsArr = [
                     "Gestiona i decideix la seva finalització.",
                     "Decideix quanta memòria necessita."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "El SO controla un programa creant un PCB (Process Control Block) amb tota la informació per executar-lo."
             },
             {
                 "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
@@ -472,8 +472,8 @@ const assignaturaExamsArr = [
                     "El kernel controla el software i el sistema operatiu el hardware.",
                     "El sistema operatiu conté el kernel a mes de les aplicacions de sistema."
                 ],
-                "answer": 2,
-                "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+                "answer": 3,
+                "explanation": "El Kernel és el nucli; el SO és el Kernel més tot l'ecosistema d'eines essencials."
             },
             {
                 "q": "Si al fer una crida al sistema el programa fa un bucle d’espera sense bloquejar- se?",
@@ -484,7 +484,7 @@ const assignaturaExamsArr = [
                     "És una situació impossible."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "El busy waiting (espera activa sense bloquejar) és típic d'un SO monoprogramat."
             },
             {
                 "q": "Quina interrupció és necessària per a SO de temps compartit?",
@@ -495,7 +495,7 @@ const assignaturaExamsArr = [
                     "Disc"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Un SO de temps compartit necessita la interrupció del Timer per fer preempció i repartir la CPU."
             },
             {
                 "q": "Què és caching en la implementació d’un SO?",
@@ -505,8 +505,8 @@ const assignaturaExamsArr = [
                     "La capacitat d'executar-se en un sistema multiprocessador.",
                     "La capacitat de copiar dades d’un dispositiu lent a un de més ràpid."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "Caching = copiar dades d'un dispositiu lent (disc) a un de ràpid (RAM/cache) per millorar el rendiment."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -517,7 +517,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "Que permet fer la tècnica de DMA?",
@@ -528,7 +528,7 @@ const assignaturaExamsArr = [
                     "Permet accedir als usuaris de manera directa."
                 ],
                 "answer": 0,
-                "explanation": "Permet fer transferències entre disc i RAM sense usar la CPU."
+                "explanation": "El DMA (Direct Memory Access) permet transferir dades entre dispositius i RAM sense ocupar la CPU."
             },
             {
                 "q": "Què implica que un SO permeti l’execució de múltiples processos?",
@@ -539,7 +539,7 @@ const assignaturaExamsArr = [
                     "Reduir el temps de resposta de cada procés."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Permetre múltiples processos (multiprogramació) incrementa la utilització de la CPU."
             },
             {
                 "q": "Quin disseny d’estructura té el UNIX original",
@@ -550,7 +550,7 @@ const assignaturaExamsArr = [
                     "Modular"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "El UNIX original té un disseny monolític: tot el nucli del SO s'executa en un únic espai de memòria."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -561,7 +561,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quina és la feina principal del ‘bootstrap loader’?",
@@ -571,8 +571,8 @@ const assignaturaExamsArr = [
                     "Permete que el kernel comenci a executar-se.",
                     "Totes les anteriors."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "El bootstrap loader: localitza el kernel, el carrega a memòria i permet que comenci a executar-se. Tot és correcte."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu de temps  compartit?",
@@ -583,7 +583,7 @@ const assignaturaExamsArr = [
                     "New -> Run -> Blocked -> Run."
                 ],
                 "answer": 0,
-                "explanation": "Run -> Ready -> Blocked -> Run."
+                "explanation": "En un SO temps compartit: Run→Ready (preemptat), Ready→Run (scheduling), Run→Blocked (E/S), Blocked→Ready (E/S completa)."
             },
             {
                 "q": "Què permet fer la comanda ‘getopts’?",
@@ -594,7 +594,7 @@ const assignaturaExamsArr = [
                     "No existeix aquesta comanda."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "getopts processa opcions de comanda d'un sol caràcter (com -a, -b). Per opcions llargues (--option) s'usa getopt."
             },
             {
                 "q": "Que implica que un SO sigui de Temps Real?",
@@ -604,8 +604,8 @@ const assignaturaExamsArr = [
                     "Que els procesos d’usuari no acabaen mai",
                     "Que els procesos de sistema acaben sempre de manera correcta."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "Un SO de Temps Real usa prioritats per garantir que les tasques crítiques s'executen dins del seu termini."
             },
             {
                 "q": "Què diferencia el SJF del SRTF?",
@@ -615,8 +615,8 @@ const assignaturaExamsArr = [
                     "SJF és un planificador de llarg termini i SRTF de curt termini",
                     "SRTF és de temps de real i SJF no. Donat el següent esquema d'execució de tres processos:"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "SRTF (Shortest Remaining Time First) és la versió apropiativa del SJF. SJF no és apropiatiu."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -627,7 +627,7 @@ const assignaturaExamsArr = [
                     "Multiprogramat temps compartir apropiatiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina prioritat tenen els processos?",
@@ -638,7 +638,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps d’espera?",
@@ -649,7 +649,7 @@ const assignaturaExamsArr = [
                     "63/3"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps de retorn?",
@@ -660,7 +660,7 @@ const assignaturaExamsArr = [
                     "123/3"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             }
         ]
     },
@@ -676,7 +676,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Quins quatre components hi ha en un Sistema de computació?",
@@ -687,7 +687,7 @@ const assignaturaExamsArr = [
                     "Aplicacions procedurals, lineals, seqüencials i recursives."
                 ],
                 "answer": 0,
-                "explanation": "Hardware, sistema operatiu, aplicacions i usuaris."
+                "explanation": "Un sistema de computació conté Hardware, SO, aplicacions d'usuari i els usuaris."
             },
             {
                 "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
@@ -697,8 +697,8 @@ const assignaturaExamsArr = [
                     "El kernel controla el software i el sistema operatiu el hardware.",
                     "El sistema operatiu conté el kernel a mes de les aplicacions de sistema."
                 ],
-                "answer": 2,
-                "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+                "answer": 3,
+                "explanation": "El Kernel és el nucli; el SO és el Kernel més tot l'ecosistema d'eines essencials."
             },
             {
                 "q": "Quines feines fa el kernel per a les aplicacions d’usuari?",
@@ -709,7 +709,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Accedir a dispositius d'E/S mitjançant el driver."
+                "explanation": "El kernel gestiona l'accés a dispositius E/S a través dels drivers."
             },
             {
                 "q": "Per a què es fan servir les interrupcions?",
@@ -720,7 +720,7 @@ const assignaturaExamsArr = [
                     "Per permetre que un programa faci E/S directament."
                 ],
                 "answer": 2,
-                "explanation": "Informar al kernel que un dispositiu ha finalitzat l'operació sol·licitada."
+                "explanation": "Les interrupcions informen al kernel que un dispositiu ha finalitzat l'operació sol·licitada (E/S completa)."
             },
             {
                 "q": "Què diferencia un SO multiprogramat d'un de temps compartit?",
@@ -731,7 +731,7 @@ const assignaturaExamsArr = [
                     "res, és el mateix"
                 ],
                 "answer": 1,
-                "explanation": "La capacitat d'escollir el moment de fer fora de CPU a un procés."
+                "explanation": "El temps compartit pot preemptar un procés (treure'l de CPU). El multiprogramat espera que el procés faci E/S."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -742,7 +742,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "Que permet fer la tècnica de DMA?",
@@ -753,7 +753,7 @@ const assignaturaExamsArr = [
                     "Permet accedir als usuaris de manera directa."
                 ],
                 "answer": 0,
-                "explanation": "Permet fer transferències entre disc i RAM sense usar la CPU."
+                "explanation": "El DMA (Direct Memory Access) permet transferir dades entre dispositius i RAM sense ocupar la CPU."
             },
             {
                 "q": "Què permet fer passar d’un procés single-thread a multi-thread?",
@@ -764,7 +764,7 @@ const assignaturaExamsArr = [
                     "Incrementar el temps de resposta."
                 ],
                 "answer": 2,
-                "explanation": "El estar executant diferents parts del procés de manera concurrent."
+                "explanation": "Els threads permeten executar parts del procés de manera concurrent (paral·lelament)."
             },
             {
                 "q": "Què diferencia un fitxer d’un disc dur?",
@@ -775,7 +775,7 @@ const assignaturaExamsArr = [
                     "Cap, és el mateix."
                 ],
                 "answer": 0,
-                "explanation": "El primer és software i el segon és hardware."
+                "explanation": "Un fitxer és una abstracció software; un disc dur és hardware físic."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -786,7 +786,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quins són els tres estats principals d'un procés?",
@@ -797,7 +797,7 @@ const assignaturaExamsArr = [
                     "Run, Blocked i Terminated."
                 ],
                 "answer": 2,
-                "explanation": "Ready, Run i Blocked."
+                "explanation": "Els tres estats principals: Ready (preparat), Run (executant-se) i Blocked (bloquejat per E/S)."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu de temps  compartit?",
@@ -808,7 +808,7 @@ const assignaturaExamsArr = [
                     "New -> Run -> Blocked -> Run."
                 ],
                 "answer": 0,
-                "explanation": "Run -> Ready -> Blocked -> Run."
+                "explanation": "En un SO temps compartit: Run→Ready (preemptat), Ready→Run (scheduling), Run→Blocked (E/S), Blocked→Ready (E/S completa)."
             },
             {
                 "q": "Què sortirà per pantalla si executem en una bash les següents comandes:   x=5; y=5; z=x+y; echo $z",
@@ -818,8 +818,8 @@ const assignaturaExamsArr = [
                     "55",
                     "5+5"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "z=x+y en bash assigna la cadena literal 'x+y'. Per sumar cal: z=$((x+y))."
             },
             {
                 "q": "Quin tipus d’estructura té un sistema basat en Mach?",
@@ -830,7 +830,7 @@ const assignaturaExamsArr = [
                     "Modular."
                 ],
                 "answer": 2,
-                "explanation": "Microkernel"
+                "explanation": "Mach té arquitectura Microkernel: nucli mínim, serveis en espai d'usuari."
             },
             {
                 "q": "Que és el PCB?",
@@ -841,7 +841,7 @@ const assignaturaExamsArr = [
                     "Program Control Behavior. Donat el següent esquema d'execució de tres processos:"
                 ],
                 "answer": 0,
-                "explanation": "Process Control Block."
+                "explanation": "El PCB (Process Control Block) és l'estructura de dades del SO que conté tota la informació d'un procés."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -852,7 +852,7 @@ const assignaturaExamsArr = [
                     "Multiprogramat temps compartir apropiatiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina prioritat tenen els processos?",
@@ -863,7 +863,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps d’espera?",
@@ -874,7 +874,7 @@ const assignaturaExamsArr = [
                     "14,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps de retorn?",
@@ -885,7 +885,7 @@ const assignaturaExamsArr = [
                     "19,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             }
         ]
     },
@@ -901,7 +901,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Quins quatre components hi ha en un Sistema de computació?",
@@ -912,7 +912,7 @@ const assignaturaExamsArr = [
                     "Aplicacions procedurals, lineals, seqüencials i recursives."
                 ],
                 "answer": 0,
-                "explanation": "Hardware, sistema operatiu, aplicacions i usuaris."
+                "explanation": "Un sistema de computació conté Hardware, SO, aplicacions d'usuari i els usuaris."
             },
             {
                 "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
@@ -922,8 +922,8 @@ const assignaturaExamsArr = [
                     "El kernel controla el software i el sistema operatiu el hardware.",
                     "El sistema operatiu conté el kernel a mes de les aplicacions de sistema."
                 ],
-                "answer": 2,
-                "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+                "answer": 3,
+                "explanation": "El Kernel és el nucli; el SO és el Kernel més tot l'ecosistema d'eines essencials."
             },
             {
                 "q": "Quines feines fa el kernel per a les aplicacions d’usuari?",
@@ -934,7 +934,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Accedir a dispositius d'E/S mitjançant el driver."
+                "explanation": "El kernel gestiona l'accés a dispositius E/S a través dels drivers."
             },
             {
                 "q": "Per a què es fan servir les interrupcions?",
@@ -945,7 +945,7 @@ const assignaturaExamsArr = [
                     "Per permetre que un programa faci E/S directament."
                 ],
                 "answer": 2,
-                "explanation": "Informar al kernel que un dispositiu ha finalitzat l'operació sol·licitada."
+                "explanation": "Les interrupcions informen al kernel que un dispositiu ha finalitzat l'operació sol·licitada (E/S completa)."
             },
             {
                 "q": "Què diferencia un SO multiprogramat d'un de temps compartit?",
@@ -956,7 +956,7 @@ const assignaturaExamsArr = [
                     "res, és el mateix"
                 ],
                 "answer": 1,
-                "explanation": "La capacitat d'escollir el moment de fer fora de CPU a un procés."
+                "explanation": "El temps compartit pot preemptar un procés (treure'l de CPU). El multiprogramat espera que el procés faci E/S."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -967,7 +967,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "Que permet fer la tècnica de DMA?",
@@ -978,7 +978,7 @@ const assignaturaExamsArr = [
                     "Permet accedir als usuaris de manera directa."
                 ],
                 "answer": 0,
-                "explanation": "Permet fer transferències entre disc i RAM sense usar la CPU."
+                "explanation": "El DMA (Direct Memory Access) permet transferir dades entre dispositius i RAM sense ocupar la CPU."
             },
             {
                 "q": "Què permet fer passar d’un procés single-thread a multi-thread?",
@@ -989,7 +989,7 @@ const assignaturaExamsArr = [
                     "Incrementar el temps de resposta."
                 ],
                 "answer": 2,
-                "explanation": "El estar executant diferents parts del procés de manera concurrent."
+                "explanation": "Els threads permeten executar parts del procés de manera concurrent (paral·lelament)."
             },
             {
                 "q": "Què diferencia un fitxer d’un disc dur?",
@@ -1000,7 +1000,7 @@ const assignaturaExamsArr = [
                     "Cap, és el mateix."
                 ],
                 "answer": 0,
-                "explanation": "El primer és software i el segon és hardware."
+                "explanation": "Un fitxer és una abstracció software; un disc dur és hardware físic."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -1011,7 +1011,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quins són els tres estats principals d'un procés?",
@@ -1022,7 +1022,7 @@ const assignaturaExamsArr = [
                     "Run, Blocked i Terminated."
                 ],
                 "answer": 2,
-                "explanation": "Ready, Run i Blocked."
+                "explanation": "Els tres estats principals: Ready (preparat), Run (executant-se) i Blocked (bloquejat per E/S)."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu de temps  compartit?",
@@ -1033,7 +1033,7 @@ const assignaturaExamsArr = [
                     "New -> Run -> Blocked -> Run."
                 ],
                 "answer": 0,
-                "explanation": "Run -> Ready -> Blocked -> Run."
+                "explanation": "En un SO temps compartit: Run→Ready (preemptat), Ready→Run (scheduling), Run→Blocked (E/S), Blocked→Ready (E/S completa)."
             },
             {
                 "q": "Què sortirà per pantalla si executem en una bash les següents comandes:   x=5; y=5; z=x+y; echo $z",
@@ -1043,8 +1043,8 @@ const assignaturaExamsArr = [
                     "55",
                     "5+5"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "z=x+y en bash assigna la cadena literal 'x+y'. Per sumar cal: z=$((x+y))."
             },
             {
                 "q": "Quin tipus d’estructura té un sistema basat en Mach?",
@@ -1055,7 +1055,7 @@ const assignaturaExamsArr = [
                     "Modular."
                 ],
                 "answer": 2,
-                "explanation": "Microkernel"
+                "explanation": "Mach té arquitectura Microkernel: nucli mínim, serveis en espai d'usuari."
             },
             {
                 "q": "Que és el PCB?",
@@ -1066,7 +1066,7 @@ const assignaturaExamsArr = [
                     "Program Control Behavior. Donat el següent esquema d'execució de tres processos:"
                 ],
                 "answer": 0,
-                "explanation": "Process Control Block."
+                "explanation": "El PCB (Process Control Block) és l'estructura de dades del SO que conté tota la informació d'un procés."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -1077,7 +1077,7 @@ const assignaturaExamsArr = [
                     "Multiprogramat temps compartir apropiatiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina prioritat tenen els processos?",
@@ -1088,7 +1088,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps d’espera?",
@@ -1099,7 +1099,7 @@ const assignaturaExamsArr = [
                     "14,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps de retorn?",
@@ -1110,7 +1110,7 @@ const assignaturaExamsArr = [
                     "19,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             }
         ]
     },
@@ -1126,7 +1126,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Quins perfils d'usuaris hi ha en un Sistema de computació?",
@@ -1137,7 +1137,7 @@ const assignaturaExamsArr = [
                     "Lineal, seqüencial i recursiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Els tres perfils d'usuari en un sistema de computació: interactiu, programador i dissenyador."
             },
             {
                 "q": "En ‘Bash’ com passem una variable local a variable global",
@@ -1147,8 +1147,8 @@ const assignaturaExamsArr = [
                     "Amb la comanda ‘global’.",
                     "Amb la comanda ‘export’."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "La comanda 'export' permet que una variable local sigui accessible com a variable d'entorn global."
             },
             {
                 "q": "Quines feines fa el kernel per a les aplicacions d’usuari?",
@@ -1159,7 +1159,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Accedir a dispositius d'E/S mitjançant el driver."
+                "explanation": "El kernel gestiona l'accés a dispositius E/S a través dels drivers."
             },
             {
                 "q": "Per que és important que els SO evolucionin:",
@@ -1169,8 +1169,8 @@ const assignaturaExamsArr = [
                     "Per permetre accés a nous dispositius d'E/S.",
                     "Per garantir que un programa no tingui errors."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "Els SO evolucionen principalment per suportar nou hardware i nous dispositius d'E/S."
             },
             {
                 "q": "Que diferencia un SO multiprogramat d'un de temps compartit?",
@@ -1180,8 +1180,8 @@ const assignaturaExamsArr = [
                     "La capacitat d'executar-se en un sistema multiprocessador.",
                     "res, és el mateix"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "El temps compartit pot preemptar un procés (treure'l de CPU). El multiprogramat espera que el procés faci E/S."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -1192,7 +1192,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "El processament per lots (batch) original",
@@ -1203,7 +1203,7 @@ const assignaturaExamsArr = [
                     "És un tipus de reproductor de música."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "El processament per lots executa programes en cua, un rere l'altre, sense interactivitat."
             },
             {
                 "q": "La multiprogramació està pensada per?",
@@ -1213,8 +1213,8 @@ const assignaturaExamsArr = [
                     "Incrementar la utilització de la CPU.",
                     "Incrementar el temps de resposta."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "La multiprogramació manté la CPU ocupada mentre processos esperen E/S, maximitzant la utilització."
             },
             {
                 "q": "Quina implementació es més eficient per a una cua de processos Blocked?",
@@ -1224,8 +1224,8 @@ const assignaturaExamsArr = [
                     "Una cua de prioritats.",
                     "Múltiples cues."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "Una cua de prioritats és la implementació més eficient, els processos de major prioritat es desbloquegen primer."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -1236,7 +1236,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quins són els tres estats principals d'un procés?",
@@ -1246,8 +1246,8 @@ const assignaturaExamsArr = [
                     "New, Run i Blocked.",
                     "Run, Blocked i Terminated."
                 ],
-                "answer": 2,
-                "explanation": "Ready, Run i Blocked."
+                "answer": 0,
+                "explanation": "Els tres estats principals: Ready (preparat), Run (executant-se) i Blocked (bloquejat per E/S)."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu de temps  compartit?",
@@ -1258,7 +1258,7 @@ const assignaturaExamsArr = [
                     "New -> Ready -> Run -> Ready."
                 ],
                 "answer": 0,
-                "explanation": "Run -> Ready -> Blocked -> Run."
+                "explanation": "En un SO temps compartit: Run→Ready (preemptat), Ready→Run (scheduling), Run→Blocked (E/S), Blocked→Ready (E/S completa)."
             },
             {
                 "q": "Què sortirà per pantalla si executem en un intèrpret de python les seguents  comandes:  x=3; y=5; z=x+y; print (z)",
@@ -1268,8 +1268,8 @@ const assignaturaExamsArr = [
                     "3+5",
                     "8"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "En Python, z=x+y fa la suma aritmètica. x=3, y=5 → z=8."
             },
             {
                 "q": "Quin tipus de SO és Solaris?",
@@ -1279,8 +1279,8 @@ const assignaturaExamsArr = [
                     "Multiusuari, monoprogramat per cada usuari.",
                     "Mutiprogramant, monothread per cada procés."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "Solaris és un SO multiprogramat de temps compartit amb suport multithread."
             },
             {
                 "q": "El codi que s'executa en una interrupció:",
@@ -1290,8 +1290,8 @@ const assignaturaExamsArr = [
                     "S'executa en mode usuari del sistema operatiu.",
                     "S'executa en mode kernel del procés d'usuari."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "El gestor d'interrupcions (ISR) pertany al codi del kernel, s'executa en mode privilegiat."
             },
             {
                 "q": "L'objectiu principal que vol assolir una aplicació que esta programada amb  threads?",
@@ -1301,8 +1301,8 @@ const assignaturaExamsArr = [
                     "És millorar l'utilització de la CPU del sistema.",
                     "És millorar el temps de resposta de l'aplicació. Donat el següent esquema d'execució de tres processos:"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 3,
+                "explanation": "L'objectiu principal dels threads és millorar el temps de resposta de l'aplicació (concurrència)."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -1313,7 +1313,7 @@ const assignaturaExamsArr = [
                     "Cap de les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p4_b4.png"
                 ]
@@ -1327,7 +1327,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p4_b4.png"
                 ]
@@ -1341,7 +1341,7 @@ const assignaturaExamsArr = [
                     "32"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament.",
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa.",
                 "images": [
                     "assets/img/exams/auto_ext_wuolah_free_tac12346__1__p4_b4.png"
                 ]
@@ -1355,7 +1355,7 @@ const assignaturaExamsArr = [
                     "36 Donada la següent execució de dos processos de temps real:"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quin son els períodes dels processos P1 i P2, respectivament:",
@@ -1365,8 +1365,8 @@ const assignaturaExamsArr = [
                     "100,100",
                     "100,150"
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 1,
+                "explanation": "Del diagrama: P1 té un periode de 50 unitats i P2 de 100 unitats."
             },
             {
                 "q": "En un planificador Rate-Monotonic, quina relació de prioritats tenen P1 i P2?",
@@ -1376,8 +1376,8 @@ const assignaturaExamsArr = [
                     "P1 > P2.",
                     "No té sentit en un planificador Rate-Monotonic."
                 ],
-                "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "answer": 2,
+                "explanation": "En Rate-Monotonic, el procés amb el periode més curt té més prioritat. P1 (T=50) > P2 (T=100)."
             },
             {
                 "q": "En un planificador Earliest-Deadline-First (EDF), quina relació de prioritats  tindrien P1 i P2?",
@@ -1388,7 +1388,7 @@ const assignaturaExamsArr = [
                     "P1 > P2."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "EDF assigna prioritats dinàmicament: el procés amb el deadline més proper té la màxima prioritat en cada moment."
             }
         ]
     },
@@ -1404,7 +1404,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 0,
-                "explanation": "Accedir a dispositius d'E/S mitjançant el driver."
+                "explanation": "El kernel gestiona l'accés a dispositius E/S a través dels drivers."
             },
             {
                 "q": "És funció dels SO:",
@@ -1415,7 +1415,7 @@ const assignaturaExamsArr = [
                     "Totes les anteriors."
                 ],
                 "answer": 3,
-                "explanation": "Totes les anteriors: controlar, gestionar, oferir accés."
+                "explanation": "El SO controla l'execució, gestiona recursos i facilita l'accés. Totes les anteriors."
             },
             {
                 "q": "Quins quatre components hi ha en un Sistema de computació?",
@@ -1426,7 +1426,7 @@ const assignaturaExamsArr = [
                     "Aplicacions procedurals, lineals, seqüencials i recursives."
                 ],
                 "answer": 0,
-                "explanation": "Hardware, sistema operatiu, aplicacions i usuaris."
+                "explanation": "Un sistema de computació conté Hardware, SO, aplicacions d'usuari i els usuaris."
             },
             {
                 "q": "Quina diferencia hi ha entre kernel i sistema operatiu?",
@@ -1436,8 +1436,8 @@ const assignaturaExamsArr = [
                     "El kernel controla el software i el sistema operatiu el hardware.",
                     "El sistema operatiu conté el kernel a mes de les aplicacions de sistema."
                 ],
-                "answer": 2,
-                "explanation": "El Kernel és el nucli d'execució contínua; el SO és el Kernel més tot l'ecosistema d'eines essencials afegides."
+                "answer": 3,
+                "explanation": "El Kernel és el nucli; el SO és el Kernel més tot l'ecosistema d'eines essencials."
             },
             {
                 "q": "Per a què es fan servir les interrupcions?",
@@ -1448,7 +1448,7 @@ const assignaturaExamsArr = [
                     "Per permetre que un programa faci E/S directament."
                 ],
                 "answer": 2,
-                "explanation": "Informar al kernel que un dispositiu ha finalitzat l'operació sol·licitada."
+                "explanation": "Les interrupcions informen al kernel que un dispositiu ha finalitzat l'operació sol·licitada (E/S completa)."
             },
             {
                 "q": "Què diferencia un SO multiprogramat d'un de temps compartit?",
@@ -1459,7 +1459,7 @@ const assignaturaExamsArr = [
                     "res, és el mateix"
                 ],
                 "answer": 1,
-                "explanation": "La capacitat d'escollir el moment de fer fora de CPU a un procés."
+                "explanation": "El temps compartit pot preemptar un procés (treure'l de CPU). El multiprogramat espera que el procés faci E/S."
             },
             {
                 "q": "Que permet fer la tècnica de DMA?",
@@ -1470,7 +1470,7 @@ const assignaturaExamsArr = [
                     "Permet accedir als usuaris de manera directa."
                 ],
                 "answer": 0,
-                "explanation": "Permet fer transferències entre disc i RAM sense usar la CPU."
+                "explanation": "El DMA (Direct Memory Access) permet transferir dades entre dispositius i RAM sense ocupar la CPU."
             },
             {
                 "q": "Quin sistema dóna millor productivitat?",
@@ -1481,7 +1481,7 @@ const assignaturaExamsArr = [
                     "Tots per igual."
                 ],
                 "answer": 1,
-                "explanation": "Multiprogramat."
+                "explanation": "El multiprogramat maximitza la utilització de CPU, donant millor productivitat global."
             },
             {
                 "q": "Què permet fer passar d’un procés single-thread a multi-thread?",
@@ -1492,7 +1492,7 @@ const assignaturaExamsArr = [
                     "Incrementar el temps de resposta."
                 ],
                 "answer": 2,
-                "explanation": "El estar executant diferents parts del procés de manera concurrent."
+                "explanation": "Els threads permeten executar parts del procés de manera concurrent (paral·lelament)."
             },
             {
                 "q": "Què diferencia un fitxer d’un disc dur?",
@@ -1503,7 +1503,7 @@ const assignaturaExamsArr = [
                     "Cap, és el mateix."
                 ],
                 "answer": 0,
-                "explanation": "El primer és software i el segon és hardware."
+                "explanation": "Un fitxer és una abstracció software; un disc dur és hardware físic."
             },
             {
                 "q": "Quina tasca té assignada el planificador de mig termini?",
@@ -1514,7 +1514,7 @@ const assignaturaExamsArr = [
                     "Decidir retirar completament de memòria principal a un procés."
                 ],
                 "answer": 1,
-                "explanation": "Decidir quan s'ha de treure un tros de la memòria assignada a un procés."
+                "explanation": "El planificador de mig termini (swapper) decideix quan treure processos parcialment de memòria a disc (swapping)."
             },
             {
                 "q": "Quins són els tres estats principals d'un procés?",
@@ -1525,7 +1525,7 @@ const assignaturaExamsArr = [
                     "Run, Blocked i Terminated."
                 ],
                 "answer": 2,
-                "explanation": "Ready, Run i Blocked."
+                "explanation": "Els tres estats principals: Ready (preparat), Run (executant-se) i Blocked (bloquejat per E/S)."
             },
             {
                 "q": "Quina evolució és possible per a un procés en un Sistema Operatiu  multiprogramat?",
@@ -1536,7 +1536,7 @@ const assignaturaExamsArr = [
                     "New   Run   Blocked   Run.→ → →"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Què sortirà per pantalla si executem en una bash les següents comandes:   x=5; y=5; z=$x+$y; echo $z",
@@ -1547,7 +1547,7 @@ const assignaturaExamsArr = [
                     "5+5"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quin tipus d’estructura té un sistema basat en Unix?",
@@ -1558,7 +1558,7 @@ const assignaturaExamsArr = [
                     "Modular."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Unix té estructura monolítica."
             },
             {
                 "q": "Que és el PCB?",
@@ -1569,7 +1569,7 @@ const assignaturaExamsArr = [
                     "Program Control Behavior. Donat el següent esquema d'execució de tres processos:"
                 ],
                 "answer": 0,
-                "explanation": "Process Control Block."
+                "explanation": "El PCB (Process Control Block) és l'estructura de dades del SO que conté tota la informació d'un procés."
             },
             {
                 "q": "Quin tipus de sistema operatiu és?",
@@ -1580,7 +1580,7 @@ const assignaturaExamsArr = [
                     "Multiprogramat temps compartir apropiatiu."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina prioritat tenen els processos?",
@@ -1591,7 +1591,7 @@ const assignaturaExamsArr = [
                     "No tenen prioritats."
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps d’espera?",
@@ -1602,7 +1602,7 @@ const assignaturaExamsArr = [
                     "19,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             },
             {
                 "q": "Quina és la mitja del temps de retorn?",
@@ -1613,7 +1613,7 @@ const assignaturaExamsArr = [
                     "19,66"
                 ],
                 "answer": 0,
-                "explanation": "Pregunta extreta del PDF exactament."
+                "explanation": "Pregunta extreta del PDF. Consulta els apunts per a la justificació completa."
             }
         ]
     }
